@@ -12,7 +12,8 @@ Atividade de SQL sobre a base de dados oficial **World** do MySQL (tabelas `coun
 | `00_criar_schema.sql` | Cria o schema `jose_eduardo_world`. |
 | `world_jose_eduardo.sql` | Cópia ajustada do dump oficial `world.sql` (veja o passo 3). Não vem pronta: você a gera. |
 | `01_consultas.sql` | As 11 consultas da atividade, divididas em 4 blocos. Somente `SELECT`. |
-| `resultado.txt` | (Opcional) saída das consultas, gerada pelo terminal. |
+| `resultado.txt` |  saída das consultas, gerada pelo terminal. |
+| `world.sql` |  base onde é feita as consultas |
 
 ## Requisitos
 
