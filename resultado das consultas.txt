@@ -1,0 +1,2015 @@
++------------------+---------------+------------+
+| Name             | Continent     | Population |
++------------------+---------------+------------+
+| Brazil           | South America |  170115000 |
+| Colombia         | South America |   42321000 |
+| Argentina        | South America |   37032000 |
+| Peru             | South America |   25662000 |
+| Venezuela        | South America |   24170000 |
+| Chile            | South America |   15211000 |
+| Ecuador          | South America |   12646000 |
+| Bolivia          | South America |    8329000 |
+| Paraguay         | South America |    5496000 |
+| Uruguay          | South America |    3337000 |
+| Guyana           | South America |     861000 |
+| Suriname         | South America |     417000 |
+| French Guiana    | South America |     181000 |
+| Falkland Islands | South America |       2000 |
++------------------+---------------+------------+
++-------------------+-------------+------------+
+| Name              | CountryCode | Population |
++-------------------+-------------+------------+
+| Mumbai (Bombay)   | IND         |   10500000 |
+| Seoul             | KOR         |    9981619 |
+| São Paulo         | BRA         |    9968485 |
+| Shanghai          | CHN         |    9696300 |
+| Jakarta           | IDN         |    9604900 |
+| Karachi           | PAK         |    9269265 |
+| Istanbul          | TUR         |    8787958 |
+| Ciudad de México  | MEX         |    8591309 |
+| Moscow            | RUS         |    8389200 |
+| New York          | USA         |    8008278 |
++-------------------+-------------+------------+
++-------+----------------+------------+
+| Name  | LifeExpectancy | GNP        |
++-------+----------------+------------+
+| Japan |           80.7 | 3787042.00 |
++-------+----------------+------------+
++---------------+-----------------+-----------------------------+--------------+
+| Continent     | TotalPopulation | AveragePopulationPerCountry | CountryCount |
++---------------+-----------------+-----------------------------+--------------+
+| Asia          |      3705025700 |                 72647562.75 |           51 |
+| Africa        |       784475000 |                 13525431.03 |           58 |
+| Europe        |       730074600 |                 15871186.96 |           46 |
+| North America |       482993000 |                 13053864.86 |           37 |
+| South America |       345780000 |                 24698571.43 |           14 |
+| Oceania       |        30401150 |                  1085755.36 |           28 |
+| Antarctica    |               0 |                        0.00 |            5 |
++---------------+-----------------+-----------------------------+--------------+
++-------------+-----------+
+| CountryCode | CityCount |
++-------------+-----------+
+| CHN         |       363 |
+| IND         |       341 |
+| USA         |       274 |
+| BRA         |       250 |
+| JPN         |       248 |
+| RUS         |       189 |
+| MEX         |       173 |
+| PHL         |       136 |
++-------------+-----------+
++------------+--------+------------+
+| MaxGNP     | MinGNP | AverageGNP |
++------------+--------+------------+
+| 2133367.00 |   0.00 |  206497.07 |
++------------+--------+------------+
++--------------------------------+----------------------+------------+
+| CityName                       | CountryName          | Population |
++--------------------------------+----------------------+------------+
+| Herat                          | Afghanistan          |     186800 |
+| Kabul                          | Afghanistan          |    1780000 |
+| Mazar-e-Sharif                 | Afghanistan          |     127800 |
+| Qandahar                       | Afghanistan          |     237500 |
+| Gjumri                         | Armenia              |     211700 |
+| Vanadzor                       | Armenia              |     172700 |
+| Yerevan                        | Armenia              |    1248700 |
+| Bakı                           | Azerbaijan           |    1787800 |
+| Gəncə                          | Azerbaijan           |     299300 |
+| Mingəçevir                     | Azerbaijan           |      93900 |
+| Sumqayıt                       | Azerbaijan           |     283000 |
+| al-Manama                      | Bahrain              |     148000 |
+| Barisal                        | Bangladesh           |     170232 |
+| Bogra                          | Bangladesh           |     120170 |
+| Brahmanbaria                   | Bangladesh           |     109032 |
+| Chittagong                     | Bangladesh           |    1392860 |
+| Comilla                        | Bangladesh           |     135313 |
+| Dhaka                          | Bangladesh           |    3612850 |
+| Dinajpur                       | Bangladesh           |     127815 |
+| Gazipur                        | Bangladesh           |      96717 |
+| Jamalpur                       | Bangladesh           |     103556 |
+| Jessore                        | Bangladesh           |     139710 |
+| Khulna                         | Bangladesh           |     663340 |
+| Mymensingh                     | Bangladesh           |     188713 |
+| Naogaon                        | Bangladesh           |     101266 |
+| Narayanganj                    | Bangladesh           |     202134 |
+| Narsinghdi                     | Bangladesh           |      98342 |
+| Nawabganj                      | Bangladesh           |     130577 |
+| Pabna                          | Bangladesh           |     103277 |
+| Rajshahi                       | Bangladesh           |     294056 |
+| Rangpur                        | Bangladesh           |     191398 |
+| Saidpur                        | Bangladesh           |      96777 |
+| Sirajganj                      | Bangladesh           |      99669 |
+| Sylhet                         | Bangladesh           |     117396 |
+| Tangail                        | Bangladesh           |     106004 |
+| Tungi                          | Bangladesh           |     168702 |
+| Thimphu                        | Bhutan               |      22000 |
+| Bandar Seri Begawan            | Brunei               |      21484 |
+| Battambang                     | Cambodia             |     129800 |
+| Phnom Penh                     | Cambodia             |     570155 |
+| Siem Reap                      | Cambodia             |     105100 |
+| Acheng                         | China                |     197595 |
+| Amoy [Xiamen]                  | China                |     627500 |
+| Anda                           | China                |     136446 |
+| Ankang                         | China                |     142170 |
+| Anqing                         | China                |     250718 |
+| Anshan                         | China                |    1200000 |
+| Anshun                         | China                |     174142 |
+| Anyang                         | China                |     420332 |
+| Aqsu                           | China                |     164092 |
+| Baicheng                       | China                |     217987 |
+| Baiyin                         | China                |     204970 |
+| Baoding                        | China                |     483155 |
+| Baoji                          | China                |     337765 |
+| Baotou                         | China                |     980000 |
+| Bei´an                         | China                |     204899 |
+| Beihai                         | China                |     112673 |
+| Beipiao                        | China                |     194301 |
+| Bengbu                         | China                |     449245 |
+| Benxi                          | China                |     770000 |
+| Binzhou                        | China                |     133555 |
+| Bose                           | China                |      93009 |
+| Bozhou                         | China                |     106346 |
+| Cangzhou                       | China                |     242708 |
+| Changchun                      | China                |    2812000 |
+| Changde                        | China                |     301276 |
+| Changji                        | China                |     132260 |
+| Changsha                       | China                |    1809800 |
+| Changshu                       | China                |     181805 |
+| Changzhi                       | China                |     317144 |
+| Changzhou                      | China                |     530000 |
+| Chaohu                         | China                |     123676 |
+| Chaoyang                       | China                |     222394 |
+| Chaozhou                       | China                |     313469 |
+| Chengde                        | China                |     246799 |
+| Chengdu                        | China                |    3361500 |
+| Chenzhou                       | China                |     169400 |
+| Chifeng                        | China                |     350077 |
+| Chongqing                      | China                |    6351600 |
+| Chuzhou                        | China                |     125341 |
+| Cixi                           | China                |     107329 |
+| Da´an                          | China                |     138963 |
+| Dali                           | China                |     136554 |
+| Dalian                         | China                |    2697000 |
+| Dandong                        | China                |     520000 |
+| Danjiangkou                    | China                |     103211 |
+| Danyang                        | China                |     169603 |
+| Daqing                         | China                |     660000 |
+| Datong                         | China                |     800000 |
+| Daxian                         | China                |     188101 |
+| Deyang                         | China                |     182488 |
+| Dezhou                         | China                |     195485 |
+| Dongtai                        | China                |     192247 |
+| Dongwan                        | China                |     308669 |
+| Dongying                       | China                |     281728 |
+| Dujiangyan                     | China                |     123357 |
+| Dunhua                         | China                |     235100 |
+| Duyun                          | China                |     132971 |
+| Emeishan                       | China                |      94000 |
+| Enshi                          | China                |      93056 |
+| Ezhou                          | China                |     190123 |
+| Fengcheng                      | China                |     193784 |
+| Foshan                         | China                |     303160 |
+| Fu´an                          | China                |     105265 |
+| Fujin                          | China                |     103104 |
+| Fuling                         | China                |     173878 |
+| Fuqing                         | China                |      99193 |
+| Fushun                         | China                |    1200000 |
+| Fuxin                          | China                |     640000 |
+| Fuyang                         | China                |     179572 |
+| Fuyu                           | China                |     192981 |
+| Fuzhou                         | China                |    1593800 |
+| Ganzhou                        | China                |     220129 |
+| Gejiu                          | China                |     214294 |
+| Ghulja                         | China                |     177193 |
+| Gongziling                     | China                |     226569 |
+| Guangshui                      | China                |     102770 |
+| Guangyuan                      | China                |     182241 |
+| Guigang                        | China                |     114025 |
+| Guilin                         | China                |     364130 |
+| Guiyang                        | China                |    1465200 |
+| Haicheng                       | China                |     205560 |
+| Haikou                         | China                |     454300 |
+| Hailar                         | China                |     180650 |
+| Hailun                         | China                |     133565 |
+| Haining                        | China                |     100478 |
+| Hami                           | China                |     161315 |
+| Handan                         | China                |     840000 |
+| Hangzhou                       | China                |    2190500 |
+| Hanzhong                       | China                |     169930 |
+| Harbin                         | China                |    4289800 |
+| Hebi                           | China                |     212976 |
+| Hefei                          | China                |    1369100 |
+| Hegang                         | China                |     520000 |
+| Hengshui                       | China                |     104269 |
+| Hengyang                       | China                |     487148 |
+| Heyuan                         | China                |     120101 |
+| Heze                           | China                |     189293 |
+| Hohhot                         | China                |     916700 |
+| Honghu                         | China                |     190772 |
+| Hongjiang                      | China                |     116188 |
+| Huadian                        | China                |     175873 |
+| Huai´an                        | China                |     131149 |
+| Huaibei                        | China                |     366549 |
+| Huaihua                        | China                |     126785 |
+| Huainan                        | China                |     700000 |
+| Huaiyin                        | China                |     239675 |
+| Huangshan                      | China                |     102628 |
+| Huangshi                       | China                |     457601 |
+| Huangyan                       | China                |      89288 |
+| Huaying                        | China                |      89400 |
+| Huizhou                        | China                |     161023 |
+| Hunjiang                       | China                |     482043 |
+| Huzhou                         | China                |     218071 |
+| Ji´an                          | China                |     148583 |
+| Jiamusi                        | China                |     493409 |
+| Jiangmen                       | China                |     230587 |
+| Jiangyin                       | China                |     213659 |
+| Jiangyou                       | China                |     175753 |
+| Jiaohe                         | China                |     176367 |
+| Jiaonan                        | China                |     121397 |
+| Jiaozhou                       | China                |     153364 |
+| Jiaozuo                        | China                |     409100 |
+| Jiaxing                        | China                |     211526 |
+| Jieyang                        | China                |      98531 |
+| Jilin                          | China                |    1040000 |
+| Jinan                          | China                |    2278100 |
+| Jinchang                       | China                |     105287 |
+| Jincheng                       | China                |     136396 |
+| Jingdezhen                     | China                |     281183 |
+| Jinhua                         | China                |     144280 |
+| Jining                         | China                |     265248 |
+| Jining                         | China                |     163552 |
+| Jinmen                         | China                |     160794 |
+| Jinxi                          | China                |     357052 |
+| Jinzhou                        | China                |     570000 |
+| Jinzhou                        | China                |      95761 |
+| Jiujiang                       | China                |     291187 |
+| Jiutai                         | China                |     180130 |
+| Jixi                           | China                |     683885 |
+| Junan                          | China                |      90222 |
+| Kaifeng                        | China                |     510000 |
+| Kaili                          | China                |     113958 |
+| Kaiyuan                        | China                |      91999 |
+| Kaiyuan                        | China                |     124219 |
+| Kanton [Guangzhou]             | China                |    4256300 |
+| Korla                          | China                |     159344 |
+| Kunming                        | China                |    1829500 |
+| Kunshan                        | China                |     102052 |
+| Kuytun                         | China                |     118553 |
+| Laiwu                          | China                |     246833 |
+| Laiyang                        | China                |     137080 |
+| Laizhou                        | China                |     198664 |
+| Langfang                       | China                |     148105 |
+| Lanzhou                        | China                |    1565800 |
+| Laohekou                       | China                |     123366 |
+| Leiyang                        | China                |     130115 |
+| Lengshuijiang                  | China                |     137994 |
+| Leshan                         | China                |     341128 |
+| Lhasa                          | China                |     120000 |
+| Liangcheng                     | China                |     156307 |
+| Lianyuan                       | China                |     118858 |
+| Lianyungang                    | China                |     354139 |
+| Liaocheng                      | China                |     207844 |
+| Liaoyang                       | China                |     492559 |
+| Liaoyuan                       | China                |     354141 |
+| Liling                         | China                |     108504 |
+| Linchuan                       | China                |     121949 |
+| Linfen                         | China                |     187309 |
+| Linhai                         | China                |      90870 |
+| Linhe                          | China                |     133183 |
+| Linqing                        | China                |     123958 |
+| Linyi                          | China                |     324720 |
+| Liu´an                         | China                |     144248 |
+| Liupanshui                     | China                |     363954 |
+| Liuzhou                        | China                |     610000 |
+| Liyang                         | China                |     109520 |
+| Longjing                       | China                |     139417 |
+| Longkou                        | China                |     148362 |
+| Longyan                        | China                |     134481 |
+| Loudi                          | China                |     128418 |
+| Luohe                          | China                |     126438 |
+| Luoyang                        | China                |     760000 |
+| Luzhou                         | China                |     262892 |
+| Ma´anshan                      | China                |     305421 |
+| Manzhouli                      | China                |     120023 |
+| Maoming                        | China                |     178683 |
+| Meihekou                       | China                |     209038 |
+| Meixian                        | China                |     132156 |
+| Mianyang                       | China                |     262947 |
+| Mishan                         | China                |     132744 |
+| Mudanjiang                     | China                |     570000 |
+| Nanchang                       | China                |    1691600 |
+| Nanchong                       | China                |     180273 |
+| Nanking [Nanjing]              | China                |    2870300 |
+| Nanning                        | China                |    1161800 |
+| Nanping                        | China                |     195064 |
+| Nantong                        | China                |     343341 |
+| Nanyang                        | China                |     243303 |
+| Neijiang                       | China                |     256012 |
+| Ningbo                         | China                |    1371200 |
+| Panjin                         | China                |     362773 |
+| Panzhihua                      | China                |     415466 |
+| Peking                         | China                |    7472000 |
+| Pingdingshan                   | China                |     410775 |
+| Pingdu                         | China                |     150123 |
+| Pingliang                      | China                |      99265 |
+| Pingxiang                      | China                |     425579 |
+| Pingyi                         | China                |      89373 |
+| Puqi                           | China                |     117264 |
+| Putian                         | China                |      91030 |
+| Puyang                         | China                |     175988 |
+| Qaramay                        | China                |     197602 |
+| Qashqar                        | China                |     174570 |
+| Qianjiang                      | China                |     205504 |
+| Qidong                         | China                |     126872 |
+| Qingdao                        | China                |    2596000 |
+| Qingyuan                       | China                |     164641 |
+| Qingzhou                       | China                |     128258 |
+| Qinhuangdao                    | China                |     364972 |
+| Qinzhou                        | China                |     114586 |
+| Qiqihar                        | China                |    1070000 |
+| Qitaihe                        | China                |     214957 |
+| Quanzhou                       | China                |     185154 |
+| Qujing                         | China                |     178669 |
+| Quzhou                         | China                |     112373 |
+| Renqiu                         | China                |     114256 |
+| Rizhao                         | China                |     185048 |
+| Rui´an                         | China                |     156468 |
+| Sanmenxia                      | China                |     120523 |
+| Sanming                        | China                |     160691 |
+| Sanya                          | China                |     102820 |
+| Shanghai                       | China                |    9696300 |
+| Shangqiu                       | China                |     164880 |
+| Shangrao                       | China                |     132455 |
+| Shangzi                        | China                |     215373 |
+| Shantou                        | China                |     580000 |
+| Shanwei                        | China                |     107847 |
+| Shaoguan                       | China                |     350043 |
+| Shaowu                         | China                |      90286 |
+| Shaoxing                       | China                |     179818 |
+| Shaoyang                       | China                |     247227 |
+| Shashi                         | China                |     281352 |
+| Shenyang                       | China                |    4265200 |
+| Shenzhen                       | China                |     950500 |
+| Shihezi                        | China                |     299676 |
+| Shijiazhuang                   | China                |    2041500 |
+| Shishou                        | China                |     104571 |
+| Shiyan                         | China                |     273786 |
+| Shizuishan                     | China                |     257862 |
+| Shuangcheng                    | China                |     142659 |
+| Shuangyashan                   | China                |     386081 |
+| Siping                         | China                |     317223 |
+| Suihua                         | China                |     227881 |
+| Suining                        | China                |     146086 |
+| Suizhou                        | China                |     142302 |
+| Suqian                         | China                |     105021 |
+| Suzhou                         | China                |     151862 |
+| Suzhou                         | China                |     710000 |
+| Tai´an                         | China                |     350696 |
+| Taiyuan                        | China                |    1968400 |
+| Taizhou                        | China                |     152442 |
+| Tangshan                       | China                |    1040000 |
+| Taonan                         | China                |     150168 |
+| Tengzhou                       | China                |     315083 |
+| Tianjin                        | China                |    5286800 |
+| Tianmen                        | China                |     186332 |
+| Tianshui                       | China                |     244974 |
+| Tiefa                          | China                |     131807 |
+| Tieli                          | China                |     265683 |
+| Tieling                        | China                |     254842 |
+| Tong Xian                      | China                |      97168 |
+| Tongchuan                      | China                |     280657 |
+| Tonghua                        | China                |     324600 |
+| Tongliao                       | China                |     255129 |
+| Tongling                       | China                |     228017 |
+| Tumen                          | China                |      91471 |
+| Ulanhot                        | China                |     159538 |
+| Urumtši [Ürümqi]               | China                |    1310100 |
+| Wafangdian                     | China                |     251733 |
+| Wanxian                        | China                |     156823 |
+| Weifang                        | China                |     428522 |
+| Weihai                         | China                |     128888 |
+| Weinan                         | China                |     140169 |
+| Wendeng                        | China                |     133910 |
+| Wenzhou                        | China                |     401871 |
+| Wuhai                          | China                |     264081 |
+| Wuhan                          | China                |    4344600 |
+| Wuhu                           | China                |     425740 |
+| Wuwei                          | China                |     133101 |
+| Wuxi                           | China                |     830000 |
+| Wuzhou                         | China                |     210452 |
+| Xi´an                          | China                |    2761400 |
+| Xiangfan                       | China                |     410407 |
+| Xiangtan                       | China                |     441968 |
+| Xianning                       | China                |     136811 |
+| Xiantao                        | China                |     222884 |
+| Xianyang                       | China                |     352125 |
+| Xiaogan                        | China                |     166280 |
+| Xiaoshan                       | China                |     162930 |
+| Xichang                        | China                |     134419 |
+| Xilin Hot                      | China                |      90646 |
+| Xingcheng                      | China                |     102384 |
+| Xinghua                        | China                |     161910 |
+| Xingtai                        | China                |     302789 |
+| Xining                         | China                |     700200 |
+| Xintai                         | China                |     281248 |
+| Xinxiang                       | China                |     473762 |
+| Xinyang                        | China                |     192509 |
+| Xinyu                          | China                |     173524 |
+| Xinzhou                        | China                |      98667 |
+| Xuangzhou                      | China                |     112673 |
+| Xuchang                        | China                |     208815 |
+| Xuzhou                         | China                |     810000 |
+| Ya´an                          | China                |      95900 |
+| Yakeshi                        | China                |     377869 |
+| Yan´an                         | China                |     113277 |
+| Yancheng                       | China                |     296831 |
+| Yangjiang                      | China                |     215196 |
+| Yangquan                       | China                |     362268 |
+| Yangzhou                       | China                |     312892 |
+| Yanji                          | China                |     230892 |
+| Yantai                         | China                |     452127 |
+| Yibin                          | China                |     241019 |
+| Yichang                        | China                |     371601 |
+| Yichun                         | China                |     800000 |
+| Yichun                         | China                |     151585 |
+| Yinchuan                       | China                |     544500 |
+| Yingkou                        | China                |     421589 |
+| Yixing                         | China                |     200824 |
+| Yiyang                         | China                |     185818 |
+| Yizheng                        | China                |     109268 |
+| Yong´an                        | China                |     111762 |
+| Yuanjiang                      | China                |     107004 |
+| Yuci                           | China                |     191356 |
+| Yueyang                        | China                |     302800 |
+| Yulin                          | China                |     144467 |
+| Yumen                          | China                |     109234 |
+| Yuncheng                       | China                |     108359 |
+| Yushu                          | China                |     131861 |
+| Yuyao                          | China                |     114065 |
+| Yuzhou                         | China                |      92889 |
+| Zalantun                       | China                |     130031 |
+| Zaoyang                        | China                |     162198 |
+| Zaozhuang                      | China                |     380846 |
+| Zhangjiagang                   | China                |      97994 |
+| Zhangjiakou                    | China                |     530000 |
+| Zhangjiang                     | China                |     400997 |
+| Zhangzhou                      | China                |     181424 |
+| Zhaodong                       | China                |     179976 |
+| Zhaoqing                       | China                |     194784 |
+| Zhengzhou                      | China                |    2107200 |
+| Zhenjiang                      | China                |     368316 |
+| Zhongshan                      | China                |     278829 |
+| Zhoukou                        | China                |     146288 |
+| Zhoushan                       | China                |     156317 |
+| Zhucheng                       | China                |     102134 |
+| Zhuhai                         | China                |     164747 |
+| Zhumadian                      | China                |     123232 |
+| Zhuzhou                        | China                |     409924 |
+| Zibo                           | China                |    1140000 |
+| Zigong                         | China                |     393184 |
+| Zixing                         | China                |     110048 |
+| Zunyi                          | China                |     261862 |
+| Limassol                       | Cyprus               |     154400 |
+| Nicosia                        | Cyprus               |     195000 |
+| Dili                           | East Timor           |      47900 |
+| Batumi                         | Georgia              |     137700 |
+| Kutaisi                        | Georgia              |     240900 |
+| Rustavi                        | Georgia              |     155400 |
+| Sohumi                         | Georgia              |     111700 |
+| Tbilisi                        | Georgia              |    1235200 |
+| Kowloon and New Kowloon        | Hong Kong            |    1987996 |
+| Victoria                       | Hong Kong            |    1312637 |
+| Abohar                         | India                |     107163 |
+| Achalpur                       | India                |      96216 |
+| Adoni                          | India                |     136182 |
+| Agartala                       | India                |     157358 |
+| Agra                           | India                |     891790 |
+| Ahmadnagar                     | India                |     181339 |
+| Ahmedabad                      | India                |    2876710 |
+| Aizawl                         | India                |     155240 |
+| Ajmer                          | India                |     402700 |
+| Akola                          | India                |     328034 |
+| Alandur                        | India                |     125244 |
+| Aligarh                        | India                |     480520 |
+| Allahabad                      | India                |     792858 |
+| Allappuzha (Alleppey)          | India                |     174666 |
+| Alwar                          | India                |     205086 |
+| Ambala                         | India                |     122596 |
+| Ambala Sadar                   | India                |      90712 |
+| Ambattur                       | India                |     215424 |
+| Amravati                       | India                |     421576 |
+| Amritsar                       | India                |     708835 |
+| Amroha                         | India                |     137061 |
+| Anand                          | India                |     110266 |
+| Anantapur                      | India                |     174924 |
+| Arrah (Ara)                    | India                |     157082 |
+| Asansol                        | India                |     262188 |
+| Ashoknagar-Kalyangarh          | India                |      96315 |
+| Avadi                          | India                |     183215 |
+| Bahraich                       | India                |     135400 |
+| Baidyabati                     | India                |      90601 |
+| Bally                          | India                |     184474 |
+| Balurghat                      | India                |     119796 |
+| Banda                          | India                |      97227 |
+| Bangalore                      | India                |    2660088 |
+| Bankura                        | India                |     114876 |
+| Bansberia                      | India                |      93447 |
+| Barahanagar (Baranagar)        | India                |     224821 |
+| Barasat                        | India                |     107365 |
+| Barddhaman (Burdwan)           | India                |     245079 |
+| Bareilly                       | India                |     587211 |
+| Barrackpur                     | India                |     133265 |
+| Basirhat                       | India                |     101409 |
+| Beawar                         | India                |     105363 |
+| Belgaum                        | India                |     326399 |
+| Bellary                        | India                |     245391 |
+| Berhampore (Baharampur)        | India                |     115144 |
+| Bettiah                        | India                |      92583 |
+| Bhagalpur                      | India                |     253225 |
+| Bharatpur                      | India                |     148519 |
+| Bharuch (Broach)               | India                |     133102 |
+| Bhatinda (Bathinda)            | India                |     159042 |
+| Bhatpara                       | India                |     304952 |
+| Bhavnagar                      | India                |     402338 |
+| Bhilai                         | India                |     386159 |
+| Bhilwara                       | India                |     183965 |
+| Bhimavaram                     | India                |     121314 |
+| Bhind                          | India                |     109755 |
+| Bhir (Bid)                     | India                |     112434 |
+| Bhiwandi                       | India                |     379070 |
+| Bhiwani                        | India                |     121629 |
+| Bhopal                         | India                |    1062771 |
+| Bhubaneswar                    | India                |     411542 |
+| Bhuj                           | India                |     102176 |
+| Bhusawal                       | India                |     145143 |
+| Bidar                          | India                |     108016 |
+| Bihar Sharif                   | India                |     201323 |
+| Bijapur                        | India                |     186939 |
+| Bikaner                        | India                |     416289 |
+| Bilaspur                       | India                |     179833 |
+| Bokaro Steel City              | India                |     333683 |
+| Brahmapur                      | India                |     210418 |
+| Budaun                         | India                |     116695 |
+| Bulandshahr                    | India                |     127201 |
+| Burhanpur                      | India                |     172710 |
+| Burnpur                        | India                |     174933 |
+| Calcutta [Kolkata]             | India                |    4399819 |
+| Calicut (Kozhikode)            | India                |     419831 |
+| Champdani                      | India                |      98818 |
+| Chandannagar                   | India                |     120378 |
+| Chandigarh                     | India                |     504094 |
+| Chandrapur                     | India                |     226105 |
+| Chapra                         | India                |     136877 |
+| Chennai (Madras)               | India                |    3841396 |
+| Chhindwara                     | India                |      93731 |
+| Chittoor                       | India                |     133462 |
+| Cochin (Kochi)                 | India                |     564589 |
+| Coimbatore                     | India                |     816321 |
+| Cuddalore                      | India                |     153086 |
+| Cuddapah                       | India                |     121463 |
+| Dabgram                        | India                |     147217 |
+| Damoh                          | India                |      95661 |
+| Darbhanga                      | India                |     218391 |
+| Davangere                      | India                |     266082 |
+| Dehra Dun                      | India                |     270159 |
+| Dehri                          | India                |      94526 |
+| Delhi                          | India                |    7206704 |
+| Delhi Cantonment               | India                |      94326 |
+| Dewas                          | India                |     164364 |
+| Dhanbad                        | India                |     151789 |
+| Dhule (Dhulia)                 | India                |     278317 |
+| Dibrugarh                      | India                |     120127 |
+| Dindigul                       | India                |     182477 |
+| Durg                           | India                |     150645 |
+| Durgapur                       | India                |     425836 |
+| Eluru                          | India                |     212866 |
+| Erode                          | India                |     159232 |
+| Etawah                         | India                |     124072 |
+| Faizabad                       | India                |     124437 |
+| Faridabad                      | India                |     703592 |
+| Farrukhabad-cum-Fatehgarh      | India                |     194567 |
+| Fatehpur                       | India                |     117675 |
+| Firozabad                      | India                |     215128 |
+| Gadag Betigeri                 | India                |     134051 |
+| Gandhidham                     | India                |     104585 |
+| Gandhinagar                    | India                |     123359 |
+| Ganganagar                     | India                |     161482 |
+| Gaya                           | India                |     291675 |
+| Ghaziabad                      | India                |     454156 |
+| Godhra                         | India                |      96813 |
+| Gonda                          | India                |     106078 |
+| Gondiya                        | India                |     109470 |
+| Gorakhpur                      | India                |     505566 |
+| Gudivada                       | India                |     101656 |
+| Gulbarga                       | India                |     304099 |
+| Guna                           | India                |     100490 |
+| Guntakal                       | India                |     107592 |
+| Guntur                         | India                |     471051 |
+| Gurgaon                        | India                |     128608 |
+| Guwahati (Gauhati)             | India                |     584342 |
+| Gwalior                        | India                |     690765 |
+| Habra                          | India                |     100223 |
+| Haldia                         | India                |     100347 |
+| Haldwani-cum-Kathgodam         | India                |     104195 |
+| Halisahar                      | India                |     114028 |
+| Haora (Howrah)                 | India                |     950435 |
+| Hapur                          | India                |     146262 |
+| Hardwar (Haridwar)             | India                |     147305 |
+| Hassan                         | India                |      90803 |
+| Hathras                        | India                |     113285 |
+| Hazaribag                      | India                |      97712 |
+| Hindupur                       | India                |     104651 |
+| Hisar (Hissar)                 | India                |     172677 |
+| Hoshiarpur                     | India                |     122705 |
+| Hospet                         | India                |      96322 |
+| Hubli-Dharwad                  | India                |     648298 |
+| Hugli-Chinsurah                | India                |     151806 |
+| Hyderabad                      | India                |    2964638 |
+| Ichalkaranji                   | India                |     214950 |
+| Imphal                         | India                |     198535 |
+| Indore                         | India                |    1091674 |
+| Ingraj Bazar (English Bazar)   | India                |     139204 |
+| Jabalpur                       | India                |     741927 |
+| Jaipur                         | India                |    1458483 |
+| Jalandhar (Jullundur)          | India                |     509510 |
+| Jalgaon                        | India                |     242193 |
+| Jalna                          | India                |     174985 |
+| Jammu                          | India                |     214737 |
+| Jamnagar                       | India                |     341637 |
+| Jamshedpur                     | India                |     460577 |
+| Jaunpur                        | India                |     136062 |
+| Jhansi                         | India                |     300850 |
+| Jodhpur                        | India                |     666279 |
+| Junagadh                       | India                |     130484 |
+| Kakinada                       | India                |     279980 |
+| Kalyan                         | India                |    1014557 |
+| Kamarhati                      | India                |     266889 |
+| Kanchipuram                    | India                |     150100 |
+| Kanchrapara                    | India                |     100194 |
+| Kanpur                         | India                |    1874409 |
+| Kanpur Cantonment              | India                |      93109 |
+| Karimnagar                     | India                |     148583 |
+| Karnal                         | India                |     173751 |
+| Kataka (Cuttack)               | India                |     403418 |
+| Katihar                        | India                |     154367 |
+| Khammam                        | India                |     127992 |
+| Khandwa                        | India                |     145133 |
+| Kharagpur                      | India                |     177989 |
+| Kolhapur                       | India                |     406370 |
+| Kollam (Quilon)                | India                |     139852 |
+| Korba                          | India                |     124501 |
+| Kota                           | India                |     537371 |
+| Krishnanagar                   | India                |     121110 |
+| Kukatpalle                     | India                |     185378 |
+| Kulti-Barakar                  | India                |     108518 |
+| Kumbakonam                     | India                |     139483 |
+| Kurnool                        | India                |     236800 |
+| Lalbahadur Nagar               | India                |     155500 |
+| Latur                          | India                |     197408 |
+| Lucknow                        | India                |    1619115 |
+| Ludhiana                       | India                |    1042740 |
+| Machilipatnam (Masulipatam)    | India                |     159110 |
+| Madurai                        | India                |     977856 |
+| Mahbubnagar                    | India                |     116833 |
+| Malegaon                       | India                |     342595 |
+| Malkajgiri                     | India                |     126066 |
+| Mandasor                       | India                |      95758 |
+| Mandya                         | India                |     120265 |
+| Mangalore                      | India                |     273304 |
+| Mango                          | India                |     110024 |
+| Mathura                        | India                |     226691 |
+| Maunath Bhanjan                | India                |     136697 |
+| Meerut                         | India                |     753778 |
+| Meerut Cantonment              | India                |      94876 |
+| Midnapore (Medinipur)          | India                |     125498 |
+| Mira Bhayandar                 | India                |     175372 |
+| Miraj                          | India                |     125407 |
+| Mirzapur-cum-Vindhyachal       | India                |     169336 |
+| Modinagar                      | India                |     101660 |
+| Moga                           | India                |     108304 |
+| Moradabad                      | India                |     429214 |
+| Morena                         | India                |     147124 |
+| Morvi                          | India                |      90357 |
+| Mumbai (Bombay)                | India                |   10500000 |
+| Munger (Monghyr)               | India                |     150112 |
+| Murwara (Katni)                | India                |     163431 |
+| Muzaffarnagar                  | India                |     240609 |
+| Muzaffarpur                    | India                |     241107 |
+| Mysore                         | India                |     480692 |
+| Nadiad                         | India                |     167051 |
+| Nagaon                         | India                |      93350 |
+| Nagar Coil                     | India                |     190084 |
+| Nagpur                         | India                |    1624752 |
+| Naihati                        | India                |     132701 |
+| Nanded (Nander)                | India                |     275083 |
+| Nandyal                        | India                |     119813 |
+| Nashik (Nasik)                 | India                |     656925 |
+| Navadwip                       | India                |     125037 |
+| Navsari                        | India                |     126089 |
+| Nellore                        | India                |     316606 |
+| New Bombay                     | India                |     307297 |
+| New Delhi                      | India                |     301297 |
+| Neyveli                        | India                |     118080 |
+| Nizamabad                      | India                |     241034 |
+| Noida                          | India                |     146514 |
+| North Barrackpur               | India                |     100513 |
+| North Dum Dum                  | India                |     149965 |
+| Ongole                         | India                |     100836 |
+| Orai                           | India                |      98640 |
+| Palayankottai                  | India                |      97662 |
+| Palghat (Palakkad)             | India                |     123289 |
+| Pali                           | India                |     136842 |
+| Pallavaram                     | India                |     111866 |
+| Panihati                       | India                |     275990 |
+| Panipat                        | India                |     215218 |
+| Parbhani                       | India                |     190255 |
+| Patan                          | India                |      96109 |
+| Pathankot                      | India                |     123930 |
+| Patiala                        | India                |     238368 |
+| Patna                          | India                |     917243 |
+| Pilibhit                       | India                |     106605 |
+| Pimpri-Chinchwad               | India                |     517083 |
+| Pondicherry                    | India                |     203065 |
+| Porbandar                      | India                |     116671 |
+| Proddatur                      | India                |     133914 |
+| Pudukkottai                    | India                |      98619 |
+| Pune                           | India                |    1566651 |
+| Puri                           | India                |     125199 |
+| Purnea (Purnia)                | India                |     114912 |
+| Purulia                        | India                |      92574 |
+| Qutubullapur                   | India                |     105380 |
+| Rae Bareli                     | India                |     129904 |
+| Raichur                        | India                |     157551 |
+| Raiganj                        | India                |     151045 |
+| Raigarh                        | India                |      89166 |
+| Raipur                         | India                |     438639 |
+| Raj Nandgaon                   | India                |     125371 |
+| Rajahmundry                    | India                |     324851 |
+| Rajapalaiyam                   | India                |     114202 |
+| Rajkot                         | India                |     559407 |
+| Ramagundam                     | India                |     214384 |
+| Rampur                         | India                |     243742 |
+| Ranchi                         | India                |     599306 |
+| Ratlam                         | India                |     183375 |
+| Raurkela                       | India                |     215489 |
+| Raurkela Civil Township        | India                |     140408 |
+| Rewa                           | India                |     128981 |
+| Rishra                         | India                |     102649 |
+| Rohtak                         | India                |     233400 |
+| Sagar                          | India                |     195346 |
+| Saharanpur                     | India                |     374945 |
+| Salem                          | India                |     366712 |
+| Sambalpur                      | India                |     131138 |
+| Sambhal                        | India                |     150869 |
+| Sangli                         | India                |     193197 |
+| Santipur                       | India                |     109956 |
+| Sasaram                        | India                |      98220 |
+| Satara                         | India                |      95133 |
+| Satna                          | India                |     156630 |
+| Secunderabad                   | India                |     167461 |
+| Serampore                      | India                |     137028 |
+| Shahjahanpur                   | India                |     237713 |
+| Shambajinagar (Aurangabad)     | India                |     573272 |
+| Shillong                       | India                |     131719 |
+| Shimoga                        | India                |     179258 |
+| Shivapuri                      | India                |     108277 |
+| Sikar                          | India                |     148272 |
+| Silchar                        | India                |     115483 |
+| Siliguri (Shiliguri)           | India                |     216950 |
+| Sirsa                          | India                |     125000 |
+| Sitapur                        | India                |     121842 |
+| Solapur (Sholapur)             | India                |     604215 |
+| Sonipat (Sonepat)              | India                |     143922 |
+| South Dum Dum                  | India                |     232811 |
+| Srinagar                       | India                |     892506 |
+| Surat                          | India                |    1498817 |
+| Surendranagar                  | India                |     105973 |
+| Tambaram                       | India                |     107187 |
+| Tellicherry (Thalassery)       | India                |     103579 |
+| Tenali                         | India                |     143726 |
+| Thane (Thana)                  | India                |     803389 |
+| Thanjavur                      | India                |     202013 |
+| Thiruvananthapuram (Trivandrum | India                |     524006 |
+| Timkur                         | India                |     138903 |
+| Tiruchirapalli                 | India                |     387223 |
+| Tirunelveli                    | India                |     135825 |
+| Tirupati                       | India                |     174369 |
+| Tiruppur (Tirupper)            | India                |     235661 |
+| Tiruvannamalai                 | India                |     109196 |
+| Tiruvottiyur                   | India                |     172562 |
+| Titagarh                       | India                |     114085 |
+| Tonk                           | India                |     100079 |
+| Tuticorin                      | India                |     199854 |
+| Udaipur                        | India                |     308571 |
+| Ujjain                         | India                |     362266 |
+| Ulhasnagar                     | India                |     369077 |
+| Uluberia                       | India                |     155172 |
+| Unnao                          | India                |     107425 |
+| Uttarpara-Kotrung              | India                |     100867 |
+| Vadodara (Baroda)              | India                |    1031346 |
+| Valparai                       | India                |     106523 |
+| Varanasi (Benares)             | India                |     929270 |
+| Vejalpur                       | India                |      89053 |
+| Vellore                        | India                |     175061 |
+| Veraval                        | India                |     123000 |
+| Vidisha                        | India                |      92917 |
+| Vijayawada                     | India                |     701827 |
+| Vishakhapatnam                 | India                |     752037 |
+| Vizianagaram                   | India                |     160359 |
+| Warangal                       | India                |     447657 |
+| Wardha                         | India                |     102985 |
+| Yamuna Nagar                   | India                |     144346 |
+| Yeotmal (Yavatmal)             | India                |     108578 |
+| Ambon                          | Indonesia            |     249312 |
+| Balikpapan                     | Indonesia            |     338752 |
+| Banda Aceh                     | Indonesia            |     143409 |
+| Bandar Lampung                 | Indonesia            |     680332 |
+| Bandung                        | Indonesia            |    2429000 |
+| Banjarmasin                    | Indonesia            |     482931 |
+| Banyuwangi                     | Indonesia            |      89900 |
+| Batam                          | Indonesia            |      91871 |
+| Bekasi                         | Indonesia            |     644300 |
+| Bengkulu                       | Indonesia            |     146439 |
+| Binjai                         | Indonesia            |     127222 |
+| Blitar                         | Indonesia            |     122600 |
+| Bogor                          | Indonesia            |     285114 |
+| Cianjur                        | Indonesia            |     114300 |
+| Cibinong                       | Indonesia            |     101300 |
+| Cilacap                        | Indonesia            |     206900 |
+| Cilegon                        | Indonesia            |     117000 |
+| Cimahi                         | Indonesia            |     344600 |
+| Cimanggis                      | Indonesia            |     205100 |
+| Ciomas                         | Indonesia            |     187400 |
+| Ciparay                        | Indonesia            |     111500 |
+| Ciputat                        | Indonesia            |     270800 |
+| Cirebon                        | Indonesia            |     254406 |
+| Citeureup                      | Indonesia            |     105100 |
+| Denpasar                       | Indonesia            |     435000 |
+| Depok                          | Indonesia            |     106800 |
+| Depok                          | Indonesia            |     365200 |
+| Garut                          | Indonesia            |      95800 |
+| Gorontalo                      | Indonesia            |      94058 |
+| Jakarta                        | Indonesia            |    9604900 |
+| Jambi                          | Indonesia            |     385201 |
+| Jaya Pura                      | Indonesia            |      94700 |
+| Jember                         | Indonesia            |     218500 |
+| Jombang                        | Indonesia            |      92600 |
+| Karawang                       | Indonesia            |     145000 |
+| Kediri                         | Indonesia            |     253760 |
+| Kendari                        | Indonesia            |      94800 |
+| Klaten                         | Indonesia            |     103300 |
+| Kudus                          | Indonesia            |      95300 |
+| Kupang                         | Indonesia            |     129300 |
+| Lhokseumawe                    | Indonesia            |     109600 |
+| Madiun                         | Indonesia            |     171532 |
+| Magelang                       | Indonesia            |     123800 |
+| Majalaya                       | Indonesia            |      93200 |
+| Malang                         | Indonesia            |     716862 |
+| Manado                         | Indonesia            |     332288 |
+| Mataram                        | Indonesia            |     306600 |
+| Medan                          | Indonesia            |    1843919 |
+| Mojokerto                      | Indonesia            |      96626 |
+| Padang                         | Indonesia            |     534474 |
+| Padang Sidempuan               | Indonesia            |      91200 |
+| Palangka Raya                  | Indonesia            |      99693 |
+| Palembang                      | Indonesia            |    1222764 |
+| Palu                           | Indonesia            |     142800 |
+| Pangkal Pinang                 | Indonesia            |     124000 |
+| Pasuruan                       | Indonesia            |     134019 |
+| Pekalongan                     | Indonesia            |     301504 |
+| Pekan Baru                     | Indonesia            |     438638 |
+| Pemalang                       | Indonesia            |     103500 |
+| Pematang Siantar               | Indonesia            |     203056 |
+| Percut Sei Tuan                | Indonesia            |     129000 |
+| Pondok Aren                    | Indonesia            |      92700 |
+| Pondokgede                     | Indonesia            |     263200 |
+| Pontianak                      | Indonesia            |     409632 |
+| Probolinggo                    | Indonesia            |     120770 |
+| Purwakarta                     | Indonesia            |      95900 |
+| Purwokerto                     | Indonesia            |     202500 |
+| Salatiga                       | Indonesia            |     103000 |
+| Samarinda                      | Indonesia            |     399175 |
+| Sawangan                       | Indonesia            |      91100 |
+| Semarang                       | Indonesia            |    1104405 |
+| Serang                         | Indonesia            |     122400 |
+| Sukabumi                       | Indonesia            |     125766 |
+| Sunggal                        | Indonesia            |      92300 |
+| Surabaya                       | Indonesia            |    2663820 |
+| Surakarta                      | Indonesia            |     518600 |
+| Taman                          | Indonesia            |     107000 |
+| Tangerang                      | Indonesia            |    1198300 |
+| Tanjung Pinang                 | Indonesia            |      89900 |
+| Tasikmalaya                    | Indonesia            |     179800 |
+| Tebing Tinggi                  | Indonesia            |     129300 |
+| Tegal                          | Indonesia            |     289744 |
+| Ujung Pandang                  | Indonesia            |    1060257 |
+| Waru                           | Indonesia            |     124300 |
+| Yogyakarta                     | Indonesia            |     418944 |
+| Abadan                         | Iran                 |     206073 |
+| Ahvaz                          | Iran                 |     804980 |
+| Amol                           | Iran                 |     159092 |
+| Andimeshk                      | Iran                 |     106923 |
+| Arak                           | Iran                 |     380755 |
+| Ardebil                        | Iran                 |     340386 |
+| Babol                          | Iran                 |     158346 |
+| Bandar-e Anzali                | Iran                 |      98500 |
+| Bandar-e-Abbas                 | Iran                 |     273578 |
+| Birjand                        | Iran                 |     127608 |
+| Bojnurd                        | Iran                 |     134835 |
+| Borujerd                       | Iran                 |     217804 |
+| Bukan                          | Iran                 |     120020 |
+| Bushehr                        | Iran                 |     143641 |
+| Dezful                         | Iran                 |     202639 |
+| Esfahan                        | Iran                 |    1266072 |
+| Eslamshahr                     | Iran                 |     265450 |
+| Gonbad-e Qabus                 | Iran                 |     111253 |
+| Gorgan                         | Iran                 |     188710 |
+| Hamadan                        | Iran                 |     401281 |
+| Ilam                           | Iran                 |     126346 |
+| Jahrom                         | Iran                 |      94200 |
+| Karaj                          | Iran                 |     940968 |
+| Kashan                         | Iran                 |     201372 |
+| Kerman                         | Iran                 |     384991 |
+| Kermanshah                     | Iran                 |     692986 |
+| Khomeynishahr                  | Iran                 |     165888 |
+| Khorramabad                    | Iran                 |     272815 |
+| Khorramshahr                   | Iran                 |     105636 |
+| Khoy                           | Iran                 |     148944 |
+| Mahabad                        | Iran                 |     107799 |
+| Malayer                        | Iran                 |     144373 |
+| Maragheh                       | Iran                 |     132318 |
+| Marand                         | Iran                 |      96400 |
+| Marv Dasht                     | Iran                 |     103579 |
+| Mashhad                        | Iran                 |    1887405 |
+| Masjed-e-Soleyman              | Iran                 |     116883 |
+| Miandoab                       | Iran                 |      90100 |
+| Najafabad                      | Iran                 |     178498 |
+| Neyshabur                      | Iran                 |     158847 |
+| Qaemshahr                      | Iran                 |     143286 |
+| Qarchak                        | Iran                 |     142690 |
+| Qazvin                         | Iran                 |     291117 |
+| Qods                           | Iran                 |     138278 |
+| Qom                            | Iran                 |     777677 |
+| Qomsheh                        | Iran                 |      89800 |
+| Rafsanjan                      | Iran                 |      98300 |
+| Rasht                          | Iran                 |     417748 |
+| Sabzevar                       | Iran                 |     170738 |
+| Sanandaj                       | Iran                 |     277808 |
+| Saqqez                         | Iran                 |     115394 |
+| Sari                           | Iran                 |     195882 |
+| Saveh                          | Iran                 |     111245 |
+| Semnan                         | Iran                 |      91045 |
+| Shahr-e Kord                   | Iran                 |     100477 |
+| Shahrud                        | Iran                 |     104765 |
+| Shiraz                         | Iran                 |    1053025 |
+| Sirjan                         | Iran                 |     135024 |
+| Tabriz                         | Iran                 |    1191043 |
+| Teheran                        | Iran                 |    6758845 |
+| Torbat-e Heydariyeh            | Iran                 |      94600 |
+| Urmia                          | Iran                 |     435200 |
+| Varamin                        | Iran                 |     107233 |
+| Yazd                           | Iran                 |     326776 |
+| Zabol                          | Iran                 |     100887 |
+| Zahedan                        | Iran                 |     419518 |
+| Zanjan                         | Iran                 |     286295 |
+| al-Amara                       | Iraq                 |     208797 |
+| al-Diwaniya                    | Iraq                 |     196519 |
+| al-Hilla                       | Iraq                 |     268834 |
+| al-Kut                         | Iraq                 |     183183 |
+| al-Najaf                       | Iraq                 |     309010 |
+| al-Nasiriya                    | Iraq                 |     265937 |
+| al-Ramadi                      | Iraq                 |     192556 |
+| al-Sulaymaniya                 | Iraq                 |     364096 |
+| Baghdad                        | Iraq                 |    4336000 |
+| Baquba                         | Iraq                 |     114516 |
+| Basra                          | Iraq                 |     406296 |
+| Irbil                          | Iraq                 |     485968 |
+| Karbala                        | Iraq                 |     296705 |
+| Kirkuk                         | Iraq                 |     418624 |
+| Mosul                          | Iraq                 |     879000 |
+| Ashdod                         | Israel               |     155800 |
+| Ashqelon                       | Israel               |      92300 |
+| Bat Yam                        | Israel               |     137000 |
+| Beerseba                       | Israel               |     163700 |
+| Bene Beraq                     | Israel               |     133900 |
+| Haifa                          | Israel               |     265700 |
+| Holon                          | Israel               |     163100 |
+| Jerusalem                      | Israel               |     633700 |
+| Netanya                        | Israel               |     154900 |
+| Petah Tiqwa                    | Israel               |     159400 |
+| Ramat Gan                      | Israel               |     126900 |
+| Rehovot                        | Israel               |      90300 |
+| Rishon Le Ziyyon               | Israel               |     188200 |
+| Tel Aviv-Jaffa                 | Israel               |     348100 |
+| Abiko                          | Japan                |     126670 |
+| Ageo                           | Japan                |     209442 |
+| Aizuwakamatsu                  | Japan                |     119287 |
+| Akashi                         | Japan                |     292253 |
+| Akishima                       | Japan                |     106914 |
+| Akita                          | Japan                |     314440 |
+| Amagasaki                      | Japan                |     481434 |
+| Anjo                           | Japan                |     153823 |
+| Aomori                         | Japan                |     295969 |
+| Asahikawa                      | Japan                |     364813 |
+| Asaka                          | Japan                |     114815 |
+| Ashikaga                       | Japan                |     165243 |
+| Atsugi                         | Japan                |     212407 |
+| Beppu                          | Japan                |     127486 |
+| Chiba                          | Japan                |     863930 |
+| Chigasaki                      | Japan                |     216015 |
+| Chofu                          | Japan                |     201585 |
+| Daito                          | Japan                |     130594 |
+| Ebetsu                         | Japan                |     118805 |
+| Ebina                          | Japan                |     115571 |
+| Fuchu                          | Japan                |     220576 |
+| Fuji                           | Japan                |     231527 |
+| Fujieda                        | Japan                |     126897 |
+| Fujimi                         | Japan                |      96972 |
+| Fujinomiya                     | Japan                |     119714 |
+| Fujisawa                       | Japan                |     372840 |
+| Fukaya                         | Japan                |     102156 |
+| Fukui                          | Japan                |     254818 |
+| Fukuoka                        | Japan                |    1308379 |
+| Fukushima                      | Japan                |     287525 |
+| Fukuyama                       | Japan                |     376921 |
+| Funabashi                      | Japan                |     545299 |
+| Gifu                           | Japan                |     408007 |
+| Habikino                       | Japan                |     118968 |
+| Hachinohe                      | Japan                |     242979 |
+| Hachioji                       | Japan                |     513451 |
+| Hadano                         | Japan                |     166512 |
+| Hakodate                       | Japan                |     294788 |
+| Hamamatsu                      | Japan                |     568796 |
+| Handa                          | Japan                |     108600 |
+| Higashihiroshima               | Japan                |     119166 |
+| Higashikurume                  | Japan                |     111666 |
+| Higashimatsuyama               | Japan                |      93342 |
+| Higashimurayama                | Japan                |     136970 |
+| Higashiosaka                   | Japan                |     517785 |
+| Hikone                         | Japan                |     105508 |
+| Himeji                         | Japan                |     475167 |
+| Hino                           | Japan                |     166770 |
+| Hirakata                       | Japan                |     403151 |
+| Hiratsuka                      | Japan                |     254207 |
+| Hirosaki                       | Japan                |     177522 |
+| Hiroshima                      | Japan                |    1119117 |
+| Hitachi                        | Japan                |     196622 |
+| Hitachinaka                    | Japan                |     148006 |
+| Hofu                           | Japan                |     118751 |
+| Hoya                           | Japan                |     100313 |
+| Ibaraki                        | Japan                |     261020 |
+| Ichihara                       | Japan                |     279280 |
+| Ichikawa                       | Japan                |     441893 |
+| Ichinomiya                     | Japan                |     270828 |
+| Iida                           | Japan                |     107583 |
+| Ikeda                          | Japan                |     102710 |
+| Ikoma                          | Japan                |     111645 |
+| Imabari                        | Japan                |     119357 |
+| Inazawa                        | Japan                |      98746 |
+| Iruma                          | Japan                |     145922 |
+| Isahaya                        | Japan                |      93058 |
+| Ise                            | Japan                |     101732 |
+| Isehara                        | Japan                |      98123 |
+| Isesaki                        | Japan                |     123285 |
+| Ishinomaki                     | Japan                |     120963 |
+| Itami                          | Japan                |     190886 |
+| Iwaki                          | Japan                |     361737 |
+| Iwakuni                        | Japan                |     106647 |
+| Iwatsuki                       | Japan                |     110034 |
+| Izumi                          | Japan                |     166979 |
+| Izumisano                      | Japan                |      92583 |
+| Joetsu                         | Japan                |     133505 |
+| Jokohama [Yokohama]            | Japan                |    3339594 |
+| Kadoma                         | Japan                |     138953 |
+| Kagoshima                      | Japan                |     549977 |
+| Kakamigahara                   | Japan                |     131831 |
+| Kakogawa                       | Japan                |     266281 |
+| Kamagaya                       | Japan                |     100821 |
+| Kamakura                       | Japan                |     167661 |
+| Kameoka                        | Japan                |      92398 |
+| Kanazawa                       | Japan                |     455386 |
+| Kanuma                         | Japan                |      93053 |
+| Kariya                         | Japan                |     127969 |
+| Kashihara                      | Japan                |     124013 |
+| Kashiwa                        | Japan                |     320296 |
+| Kashiwazaki                    | Japan                |      91229 |
+| Kasuga                         | Japan                |     101344 |
+| Kasugai                        | Japan                |     282348 |
+| Kasukabe                       | Japan                |     201838 |
+| Kawachinagano                  | Japan                |     119666 |
+| Kawagoe                        | Japan                |     327211 |
+| Kawaguchi                      | Japan                |     452155 |
+| Kawanishi                      | Japan                |     149794 |
+| Kawasaki                       | Japan                |    1217359 |
+| Kimitsu                        | Japan                |      93216 |
+| Kioto                          | Japan                |    1461974 |
+| Kiryu                          | Japan                |     118326 |
+| Kisarazu                       | Japan                |     121967 |
+| Kishiwada                      | Japan                |     197276 |
+| Kitakyushu                     | Japan                |    1016264 |
+| Kitami                         | Japan                |     111295 |
+| Kobe                           | Japan                |    1425139 |
+| Kochi                          | Japan                |     324710 |
+| Kodaira                        | Japan                |     174984 |
+| Kofu                           | Japan                |     199753 |
+| Koganei                        | Japan                |     110969 |
+| Kokubunji                      | Japan                |     106996 |
+| Komaki                         | Japan                |     139827 |
+| Komatsu                        | Japan                |     107937 |
+| Konan                          | Japan                |      95521 |
+| Koriyama                       | Japan                |     330335 |
+| Koshigaya                      | Japan                |     301446 |
+| Kumagaya                       | Japan                |     157171 |
+| Kumamoto                       | Japan                |     656734 |
+| Kurashiki                      | Japan                |     425103 |
+| Kure                           | Japan                |     206504 |
+| Kurume                         | Japan                |     235611 |
+| Kusatsu                        | Japan                |     106232 |
+| Kushiro                        | Japan                |     197608 |
+| Kuwana                         | Japan                |     106121 |
+| Machida                        | Japan                |     364197 |
+| Maebashi                       | Japan                |     284473 |
+| Maizuru                        | Japan                |      94784 |
+| Matsubara                      | Japan                |     135010 |
+| Matsudo                        | Japan                |     461126 |
+| Matsue                         | Japan                |     149821 |
+| Matsumoto                      | Japan                |     206801 |
+| Matsusaka                      | Japan                |     123582 |
+| Matsuyama                      | Japan                |     466133 |
+| Minoo                          | Japan                |     127026 |
+| Misato                         | Japan                |     132957 |
+| Mishima                        | Japan                |     109699 |
+| Mitaka                         | Japan                |     167268 |
+| Mito                           | Japan                |     246559 |
+| Miyakonojo                     | Japan                |     133183 |
+| Miyazaki                       | Japan                |     303784 |
+| Mobara                         | Japan                |      91664 |
+| Moriguchi                      | Japan                |     155941 |
+| Morioka                        | Japan                |     287353 |
+| Muroran                        | Japan                |     108275 |
+| Musashino                      | Japan                |     134426 |
+| Nagano                         | Japan                |     361391 |
+| Nagaoka                        | Japan                |     192407 |
+| Nagareyama                     | Japan                |     147738 |
+| Nagasaki                       | Japan                |     432759 |
+| Nagoya                         | Japan                |    2154376 |
+| Naha                           | Japan                |     299851 |
+| Nara                           | Japan                |     362812 |
+| Narashino                      | Japan                |     152849 |
+| Narita                         | Japan                |      91470 |
+| Neyagawa                       | Japan                |     257315 |
+| Niigata                        | Japan                |     497464 |
+| Niihama                        | Japan                |     127207 |
+| Niiza                          | Japan                |     147744 |
+| Nishinomiya                    | Japan                |     397618 |
+| Nishio                         | Japan                |     100032 |
+| Nobeoka                        | Japan                |     125547 |
+| Noda                           | Japan                |     121030 |
+| Numazu                         | Japan                |     211382 |
+| Obihiro                        | Japan                |     173685 |
+| Odawara                        | Japan                |     200171 |
+| Ogaki                          | Japan                |     151758 |
+| Oita                           | Japan                |     433401 |
+| Okayama                        | Japan                |     624269 |
+| Okazaki                        | Japan                |     328711 |
+| Okinawa                        | Japan                |     117748 |
+| Ome                            | Japan                |     139216 |
+| Omiya                          | Japan                |     441649 |
+| Omuta                          | Japan                |     142889 |
+| Onomichi                       | Japan                |      93756 |
+| Osaka                          | Japan                |    2595674 |
+| Ota                            | Japan                |     145317 |
+| Otaru                          | Japan                |     155784 |
+| Otsu                           | Japan                |     282070 |
+| Oyama                          | Japan                |     152820 |
+| Saga                           | Japan                |     170034 |
+| Sagamihara                     | Japan                |     586300 |
+| Sakado                         | Japan                |      98221 |
+| Sakai                          | Japan                |     797735 |
+| Sakata                         | Japan                |     101651 |
+| Sakura                         | Japan                |     168072 |
+| Sanda                          | Japan                |     105643 |
+| Sapporo                        | Japan                |    1790886 |
+| Sasebo                         | Japan                |     244240 |
+| Sayama                         | Japan                |     162472 |
+| Sendai                         | Japan                |     989975 |
+| Seto                           | Japan                |     130470 |
+| Shimizu                        | Japan                |     239123 |
+| Shimonoseki                    | Japan                |     257263 |
+| Shizuoka                       | Japan                |     473854 |
+| Soka                           | Japan                |     222768 |
+| Suita                          | Japan                |     345750 |
+| Suzuka                         | Japan                |     184061 |
+| Tachikawa                      | Japan                |     159430 |
+| Tajimi                         | Japan                |     103171 |
+| Takamatsu                      | Japan                |     332471 |
+| Takaoka                        | Japan                |     174380 |
+| Takarazuka                     | Japan                |     205993 |
+| Takasago                       | Japan                |      97632 |
+| Takasaki                       | Japan                |     239124 |
+| Takatsuki                      | Japan                |     361747 |
+| Tama                           | Japan                |     146712 |
+| Toda                           | Japan                |     103969 |
+| Tokai                          | Japan                |      99738 |
+| Tokorozawa                     | Japan                |     325809 |
+| Tokushima                      | Japan                |     269649 |
+| Tokuyama                       | Japan                |     107078 |
+| Tokyo                          | Japan                |    7980230 |
+| Tomakomai                      | Japan                |     171958 |
+| Tondabayashi                   | Japan                |     125094 |
+| Tottori                        | Japan                |     147523 |
+| Toyama                         | Japan                |     325790 |
+| Toyohashi                      | Japan                |     360066 |
+| Toyokawa                       | Japan                |     115781 |
+| Toyonaka                       | Japan                |     396689 |
+| Toyota                         | Japan                |     346090 |
+| Tsu                            | Japan                |     164543 |
+| Tsuchiura                      | Japan                |     134072 |
+| Tsukuba                        | Japan                |     160768 |
+| Tsuruoka                       | Japan                |     100713 |
+| Tsuyama                        | Japan                |      91170 |
+| Ube                            | Japan                |     175206 |
+| Ueda                           | Japan                |     124217 |
+| Uji                            | Japan                |     188735 |
+| Urasoe                         | Japan                |      96002 |
+| Urawa                          | Japan                |     469675 |
+| Urayasu                        | Japan                |     127550 |
+| Utsunomiya                     | Japan                |     440353 |
+| Wakayama                       | Japan                |     391233 |
+| Yachiyo                        | Japan                |     161222 |
+| Yaizu                          | Japan                |     117258 |
+| Yamagata                       | Japan                |     255617 |
+| Yamaguchi                      | Japan                |     138210 |
+| Yamato                         | Japan                |     208234 |
+| Yamatokoriyama                 | Japan                |      95165 |
+| Yao                            | Japan                |     276421 |
+| Yatsushiro                     | Japan                |     107661 |
+| Yokkaichi                      | Japan                |     288173 |
+| Yokosuka                       | Japan                |     430200 |
+| Yonago                         | Japan                |     136461 |
+| Yonezawa                       | Japan                |      95592 |
+| Zama                           | Japan                |     122046 |
+| al-Rusayfa                     | Jordan               |     137247 |
+| al-Zarqa                       | Jordan               |     389815 |
+| Amman                          | Jordan               |    1000000 |
+| Irbid                          | Jordan               |     231511 |
+| Wadi al-Sir                    | Jordan               |      89104 |
+| Almaty                         | Kazakstan            |    1129400 |
+| Aqtau                          | Kazakstan            |     143400 |
+| Aqtöbe                         | Kazakstan            |     253100 |
+| Astana                         | Kazakstan            |     311200 |
+| Atyrau                         | Kazakstan            |     142500 |
+| Ekibastuz                      | Kazakstan            |     127200 |
+| Kökshetau                      | Kazakstan            |     123400 |
+| Oral                           | Kazakstan            |     195500 |
+| Öskemen                        | Kazakstan            |     311000 |
+| Pavlodar                       | Kazakstan            |     300500 |
+| Petropavl                      | Kazakstan            |     203500 |
+| Qaraghandy                     | Kazakstan            |     436900 |
+| Qostanay                       | Kazakstan            |     221400 |
+| Qyzylorda                      | Kazakstan            |     157400 |
+| Rudnyy                         | Kazakstan            |     109500 |
+| Semey                          | Kazakstan            |     269600 |
+| Shymkent                       | Kazakstan            |     360100 |
+| Taldyqorghan                   | Kazakstan            |      98000 |
+| Taraz                          | Kazakstan            |     330100 |
+| Temirtau                       | Kazakstan            |     170500 |
+| Zhezqazghan                    | Kazakstan            |      90000 |
+| al-Salimiya                    | Kuwait               |     130215 |
+| Jalib al-Shuyukh               | Kuwait               |     102178 |
+| Kuwait                         | Kuwait               |      28859 |
+| Bishkek                        | Kyrgyzstan           |     589400 |
+| Osh                            | Kyrgyzstan           |     222700 |
+| Savannakhet                    | Laos                 |      96652 |
+| Vientiane                      | Laos                 |     531800 |
+| Beirut                         | Lebanon              |    1100000 |
+| Tripoli                        | Lebanon              |     240000 |
+| Macao                          | Macao                |     437500 |
+| Alor Setar                     | Malaysia             |     124412 |
+| Ipoh                           | Malaysia             |     382853 |
+| Johor Baharu                   | Malaysia             |     328436 |
+| Kelang                         | Malaysia             |     243355 |
+| Kota Bharu                     | Malaysia             |     219582 |
+| Kuala Lumpur                   | Malaysia             |    1297526 |
+| Kuala Terengganu               | Malaysia             |     228119 |
+| Kuantan                        | Malaysia             |     199484 |
+| Kuching                        | Malaysia             |     148059 |
+| Petaling Jaya                  | Malaysia             |     254350 |
+| Pinang                         | Malaysia             |     219603 |
+| Sandakan                       | Malaysia             |     125841 |
+| Selayang Baru                  | Malaysia             |     124228 |
+| Seremban                       | Malaysia             |     182869 |
+| Shah Alam                      | Malaysia             |     102019 |
+| Sibu                           | Malaysia             |     126381 |
+| Sungai Petani                  | Malaysia             |     114763 |
+| Taiping                        | Malaysia             |     183261 |
+| Male                           | Maldives             |      71000 |
+| Ulan Bator                     | Mongolia             |     773700 |
+| Bassein (Pathein)              | Myanmar              |     183900 |
+| Henzada (Hinthada)             | Myanmar              |     104700 |
+| Lashio (Lasho)                 | Myanmar              |     107600 |
+| Mandalay                       | Myanmar              |     885300 |
+| Meikhtila                      | Myanmar              |     129700 |
+| Mergui (Myeik)                 | Myanmar              |     122700 |
+| Monywa                         | Myanmar              |     138600 |
+| Moulmein (Mawlamyine)          | Myanmar              |     307900 |
+| Myingyan                       | Myanmar              |     103600 |
+| Pagakku (Pakokku)              | Myanmar              |      94800 |
+| Pegu (Bago)                    | Myanmar              |     190900 |
+| Prome (Pyay)                   | Myanmar              |     105700 |
+| Rangoon (Yangon)               | Myanmar              |    3361700 |
+| Sittwe (Akyab)                 | Myanmar              |     137600 |
+| Taunggyi (Taunggye)            | Myanmar              |     131500 |
+| Tavoy (Dawei)                  | Myanmar              |      96800 |
+| Biratnagar                     | Nepal                |     157764 |
+| Birgunj                        | Nepal                |      90639 |
+| Kathmandu                      | Nepal                |     591835 |
+| Lalitapur                      | Nepal                |     145847 |
+| Pokhara                        | Nepal                |     146318 |
+| Chongjin                       | North Korea          |     582480 |
+| Haeju                          | North Korea          |     229172 |
+| Hamhung                        | North Korea          |     709730 |
+| Hyesan                         | North Korea          |     178020 |
+| Kaesong                        | North Korea          |     171500 |
+| Kanggye                        | North Korea          |     223410 |
+| Kimchaek                       | North Korea          |     179000 |
+| Nampo                          | North Korea          |     566200 |
+| Phyongsong                     | North Korea          |     272934 |
+| Pyongyang                      | North Korea          |    2484000 |
+| Sariwon                        | North Korea          |     254146 |
+| Sinuiju                        | North Korea          |     326011 |
+| Wonsan                         | North Korea          |     300148 |
+| al-Sib                         | Oman                 |     155000 |
+| Bawshar                        | Oman                 |     107500 |
+| Masqat                         | Oman                 |      51969 |
+| Salala                         | Oman                 |     131813 |
+| Suhar                          | Oman                 |      90814 |
+| Abottabad                      | Pakistan             |     106000 |
+| Ahmadpur East                  | Pakistan             |      96000 |
+| Bahawalnagar                   | Pakistan             |     109600 |
+| Bahawalpur                     | Pakistan             |     403408 |
+| Chiniot                        | Pakistan             |     169300 |
+| Chishtian Mandi                | Pakistan             |     101700 |
+| Dadu                           | Pakistan             |      98600 |
+| Daska                          | Pakistan             |     101500 |
+| Dera Ghazi Khan                | Pakistan             |     188100 |
+| Dera Ismail Khan               | Pakistan             |      90400 |
+| Faisalabad                     | Pakistan             |    1977246 |
+| Gojra                          | Pakistan             |     115000 |
+| Gujranwala                     | Pakistan             |    1124749 |
+| Gujrat                         | Pakistan             |     250121 |
+| Hafizabad                      | Pakistan             |     130200 |
+| Hyderabad                      | Pakistan             |    1151274 |
+| Islamabad                      | Pakistan             |     524500 |
+| Jacobabad                      | Pakistan             |     137700 |
+| Jaranwala                      | Pakistan             |     103300 |
+| Jhang                          | Pakistan             |     292214 |
+| Jhelum                         | Pakistan             |     145800 |
+| Kamalia                        | Pakistan             |      95300 |
+| Kamoke                         | Pakistan             |     151000 |
+| Karachi                        | Pakistan             |    9269265 |
+| Kasur                          | Pakistan             |     241649 |
+| Khairpur                       | Pakistan             |     102200 |
+| Khanewal                       | Pakistan             |     133000 |
+| Khanpur                        | Pakistan             |     117800 |
+| Khuzdar                        | Pakistan             |      93100 |
+| Kohat                          | Pakistan             |     125300 |
+| Lahore                         | Pakistan             |    5063499 |
+| Larkana                        | Pakistan             |     270366 |
+| Mandi Bahauddin                | Pakistan             |      97300 |
+| Mandi Burewala                 | Pakistan             |     149900 |
+| Mardan                         | Pakistan             |     244511 |
+| Mingora                        | Pakistan             |     174500 |
+| Mirpur Khas                    | Pakistan             |     184500 |
+| Multan                         | Pakistan             |    1182441 |
+| Muridke                        | Pakistan             |     108600 |
+| Muzaffargarh                   | Pakistan             |     121600 |
+| Nawabshah                      | Pakistan             |     183100 |
+| Nowshera                       | Pakistan             |      89400 |
+| Okara                          | Pakistan             |     200901 |
+| Pak Pattan                     | Pakistan             |     107800 |
+| Peshawar                       | Pakistan             |     988005 |
+| Quetta                         | Pakistan             |     560307 |
+| Rahim Yar Khan                 | Pakistan             |     228479 |
+| Rawalpindi                     | Pakistan             |    1406214 |
+| Sadiqabad                      | Pakistan             |     141500 |
+| Sahiwal                        | Pakistan             |     207388 |
+| Sargodha                       | Pakistan             |     455360 |
+| Sheikhupura                    | Pakistan             |     271875 |
+| Shikarpur                      | Pakistan             |     133300 |
+| Sialkot                        | Pakistan             |     417597 |
+| Sukkur                         | Pakistan             |     329176 |
+| Tando Adam                     | Pakistan             |     103400 |
+| Vihari                         | Pakistan             |      92300 |
+| Wah                            | Pakistan             |     198400 |
+| Wazirabad                      | Pakistan             |      89700 |
+| Gaza                           | Palestine            |     353632 |
+| Hebron                         | Palestine            |     119401 |
+| Jabaliya                       | Palestine            |     113901 |
+| Khan Yunis                     | Palestine            |     123175 |
+| Nablus                         | Palestine            |     100231 |
+| Rafah                          | Palestine            |      92020 |
+| Angeles                        | Philippines          |     263971 |
+| Antipolo                       | Philippines          |     470866 |
+| Arayat                         | Philippines          |     101792 |
+| Bacolod                        | Philippines          |     429076 |
+| Bacoor                         | Philippines          |     305699 |
+| Bago                           | Philippines          |     141721 |
+| Baguio                         | Philippines          |     252386 |
+| Baliuag                        | Philippines          |     119675 |
+| Batangas                       | Philippines          |     247588 |
+| Bayambang                      | Philippines          |      96609 |
+| Bayawan (Tulong)               | Philippines          |     101391 |
+| Baybay                         | Philippines          |      95630 |
+| Bayugan                        | Philippines          |      93623 |
+| Biñan                          | Philippines          |     201186 |
+| Binangonan                     | Philippines          |     187691 |
+| Bislig                         | Philippines          |      97860 |
+| Butuan                         | Philippines          |     267279 |
+| Cabanatuan                     | Philippines          |     222859 |
+| Cabuyao                        | Philippines          |     106630 |
+| Cadiz                          | Philippines          |     141954 |
+| Cagayan de Oro                 | Philippines          |     461877 |
+| Cainta                         | Philippines          |     242511 |
+| Calamba                        | Philippines          |     281146 |
+| Calapan                        | Philippines          |     105910 |
+| Calbayog                       | Philippines          |     147187 |
+| Candelaria                     | Philippines          |      92429 |
+| Capas                          | Philippines          |      95219 |
+| Cauayan                        | Philippines          |     103952 |
+| Cavite                         | Philippines          |      99367 |
+| Cebu                           | Philippines          |     718821 |
+| Concepcion                     | Philippines          |     115171 |
+| Cotabato                       | Philippines          |     163849 |
+| Dagupan                        | Philippines          |     130328 |
+| Danao                          | Philippines          |      98781 |
+| Daraga (Locsin)                | Philippines          |     101031 |
+| Dasmariñas                     | Philippines          |     379520 |
+| Davao                          | Philippines          |    1147116 |
+| Digos                          | Philippines          |     125171 |
+| Dipolog                        | Philippines          |      99862 |
+| Dumaguete                      | Philippines          |     102265 |
+| General Mariano Alvarez        | Philippines          |     112446 |
+| General Santos                 | Philippines          |     411822 |
+| General Trias                  | Philippines          |     107691 |
+| Gingoog                        | Philippines          |     102379 |
+| Guagua                         | Philippines          |      96858 |
+| Hagonoy                        | Philippines          |     111425 |
+| Ilagan                         | Philippines          |     119990 |
+| Iligan                         | Philippines          |     285061 |
+| Iloilo                         | Philippines          |     365820 |
+| Imus                           | Philippines          |     195482 |
+| Kabankalan                     | Philippines          |     149769 |
+| Kalookan                       | Philippines          |    1177604 |
+| Kidapawan                      | Philippines          |     101205 |
+| Koronadal                      | Philippines          |     133786 |
+| Laoag                          | Philippines          |      94466 |
+| Lapu-Lapu                      | Philippines          |     217019 |
+| Las Piñas                      | Philippines          |     472780 |
+| Legazpi                        | Philippines          |     157010 |
+| Ligao                          | Philippines          |      90603 |
+| Lipa                           | Philippines          |     218447 |
+| Lubao                          | Philippines          |     125699 |
+| Lucena                         | Philippines          |     196075 |
+| Mabalacat                      | Philippines          |     171045 |
+| Makati                         | Philippines          |     444867 |
+| Malabon                        | Philippines          |     338855 |
+| Malasiqui                      | Philippines          |     113190 |
+| Malaybalay                     | Philippines          |     123672 |
+| Malita                         | Philippines          |     100000 |
+| Malolos                        | Philippines          |     175291 |
+| Malungon                       | Philippines          |      93232 |
+| Mandaluyong                    | Philippines          |     278474 |
+| Mandaue                        | Philippines          |     259728 |
+| Manila                         | Philippines          |    1581082 |
+| Marawi                         | Philippines          |     131090 |
+| Marikina                       | Philippines          |     391170 |
+| Marilao                        | Philippines          |     101017 |
+| Mati                           | Philippines          |     105908 |
+| Mexico                         | Philippines          |     109481 |
+| Meycauayan                     | Philippines          |     163037 |
+| Midsayap                       | Philippines          |     105760 |
+| Muntinlupa                     | Philippines          |     379310 |
+| Naga                           | Philippines          |     137810 |
+| Nasugbu                        | Philippines          |      96113 |
+| Navotas                        | Philippines          |     230403 |
+| Olongapo                       | Philippines          |     194260 |
+| Ormoc                          | Philippines          |     154297 |
+| Ozamis                         | Philippines          |     110420 |
+| Pagadian                       | Philippines          |     142515 |
+| Panabo                         | Philippines          |     133950 |
+| Parañaque                      | Philippines          |     449811 |
+| Pasay                          | Philippines          |     354908 |
+| Pasig                          | Philippines          |     505058 |
+| Polomolok                      | Philippines          |     110709 |
+| Puerto Princesa                | Philippines          |     161912 |
+| Quezon                         | Philippines          |    2173831 |
+| Rodriguez (Montalban)          | Philippines          |     115167 |
+| Roxas                          | Philippines          |     126352 |
+| Sagay                          | Philippines          |     129765 |
+| San Carlos                     | Philippines          |     118259 |
+| San Carlos                     | Philippines          |     154264 |
+| San Fernando                   | Philippines          |     102082 |
+| San Fernando                   | Philippines          |     221857 |
+| San Jose                       | Philippines          |     108254 |
+| San Jose                       | Philippines          |     111009 |
+| San José del Monte             | Philippines          |     315807 |
+| San Juan del Monte             | Philippines          |     117680 |
+| San Mateo                      | Philippines          |     135603 |
+| San Miguel                     | Philippines          |     123824 |
+| San Pablo                      | Philippines          |     207927 |
+| San Pedro                      | Philippines          |     231403 |
+| Santa Cruz                     | Philippines          |      92694 |
+| Santa Maria                    | Philippines          |     144282 |
+| Santa Rosa                     | Philippines          |     185633 |
+| Santiago                       | Philippines          |     110531 |
+| Sariaya                        | Philippines          |     114568 |
+| Silang                         | Philippines          |     156137 |
+| Silay                          | Philippines          |     107722 |
+| Sorsogon                       | Philippines          |      92512 |
+| Sultan Kudarat                 | Philippines          |      94861 |
+| Surigao                        | Philippines          |     118534 |
+| Tabaco                         | Philippines          |     107166 |
+| Tacloban                       | Philippines          |     178639 |
+| Taguig                         | Philippines          |     467375 |
+| Tagum                          | Philippines          |     179531 |
+| Talavera                       | Philippines          |      97329 |
+| Talisay                        | Philippines          |     148110 |
+| Tanauan                        | Philippines          |     117539 |
+| Tanza                          | Philippines          |     110517 |
+| Tarlac                         | Philippines          |     262481 |
+| Taytay                         | Philippines          |     198183 |
+| Toledo                         | Philippines          |     141174 |
+| Tuguegarao                     | Philippines          |     120645 |
+| Urdaneta                       | Philippines          |     111582 |
+| Valencia                       | Philippines          |     147924 |
+| Valenzuela                     | Philippines          |     485433 |
+| Zamboanga                      | Philippines          |     601794 |
+| Doha                           | Qatar                |     355000 |
+| Abha                           | Saudi Arabia         |     112300 |
+| al-Dammam                      | Saudi Arabia         |     482300 |
+| al-Hawiya                      | Saudi Arabia         |      93900 |
+| al-Hufuf                       | Saudi Arabia         |     225800 |
+| al-Kharj                       | Saudi Arabia         |     152100 |
+| al-Khubar                      | Saudi Arabia         |     141700 |
+| al-Mubarraz                    | Saudi Arabia         |     219100 |
+| al-Qatif                       | Saudi Arabia         |      98900 |
+| al-Taif                        | Saudi Arabia         |     416100 |
+| al-Tuqba                       | Saudi Arabia         |     125700 |
+| Ara´ar                         | Saudi Arabia         |     108100 |
+| Burayda                        | Saudi Arabia         |     248600 |
+| Hafar al-Batin                 | Saudi Arabia         |     137800 |
+| Hail                           | Saudi Arabia         |     176800 |
+| Jedda                          | Saudi Arabia         |    2046300 |
+| Jubayl                         | Saudi Arabia         |     140800 |
+| Khamis Mushayt                 | Saudi Arabia         |     217900 |
+| Medina                         | Saudi Arabia         |     608300 |
+| Mekka                          | Saudi Arabia         |     965700 |
+| Najran                         | Saudi Arabia         |      91000 |
+| Riyadh                         | Saudi Arabia         |    3324000 |
+| Tabuk                          | Saudi Arabia         |     292600 |
+| Unayza                         | Saudi Arabia         |      91100 |
+| Yanbu                          | Saudi Arabia         |     119800 |
+| Singapore                      | Singapore            |    4017733 |
+| Andong                         | South Korea          |     188443 |
+| Ansan                          | South Korea          |     510314 |
+| Anyang                         | South Korea          |     591106 |
+| Asan                           | South Korea          |     154663 |
+| Chang-won                      | South Korea          |     481694 |
+| Chechon                        | South Korea          |     137070 |
+| Cheju                          | South Korea          |     258511 |
+| Chinhae                        | South Korea          |     125997 |
+| Chinju                         | South Korea          |     329886 |
+| Chonan                         | South Korea          |     330259 |
+| Chong-up                       | South Korea          |     139111 |
+| Chongju                        | South Korea          |     531376 |
+| Chonju                         | South Korea          |     563153 |
+| Chunchon                       | South Korea          |     234528 |
+| Chungju                        | South Korea          |     205206 |
+| Hanam                          | South Korea          |     115812 |
+| Ichon                          | South Korea          |     155332 |
+| Iksan                          | South Korea          |     322685 |
+| Inchon                         | South Korea          |    2559424 |
+| Kangnung                       | South Korea          |     220403 |
+| Kimchon                        | South Korea          |     147027 |
+| Kimhae                         | South Korea          |     256370 |
+| Kimje                          | South Korea          |     115427 |
+| Koje                           | South Korea          |     147562 |
+| Kongju                         | South Korea          |     131229 |
+| Koyang                         | South Korea          |     518282 |
+| Kumi                           | South Korea          |     311431 |
+| Kunpo                          | South Korea          |     235233 |
+| Kunsan                         | South Korea          |     266569 |
+| Kuri                           | South Korea          |     142173 |
+| Kwang-yang                     | South Korea          |     122052 |
+| Kwangju                        | South Korea          |    1368341 |
+| Kwangmyong                     | South Korea          |     350914 |
+| Kyongju                        | South Korea          |     272968 |
+| Kyongsan                       | South Korea          |     173746 |
+| Masan                          | South Korea          |     441242 |
+| Miryang                        | South Korea          |     121501 |
+| Mokpo                          | South Korea          |     247452 |
+| Mun-gyong                      | South Korea          |      92239 |
+| Naju                           | South Korea          |     107831 |
+| Namwon                         | South Korea          |     103544 |
+| Namyangju                      | South Korea          |     229060 |
+| Nonsan                         | South Korea          |     146619 |
+| Paju                           | South Korea          |     163379 |
+| Pohang                         | South Korea          |     508899 |
+| Poryong                        | South Korea          |     122604 |
+| Puchon                         | South Korea          |     779412 |
+| Pusan                          | South Korea          |    3804522 |
+| Pyongtaek                      | South Korea          |     312927 |
+| Sachon                         | South Korea          |     113494 |
+| Sangju                         | South Korea          |     124116 |
+| Seoul                          | South Korea          |    9981619 |
+| Shihung                        | South Korea          |     133443 |
+| Songnam                        | South Korea          |     869094 |
+| Sosan                          | South Korea          |     134746 |
+| Sunchon                        | South Korea          |     249263 |
+| Suwon                          | South Korea          |     755550 |
+| Taegu                          | South Korea          |    2548568 |
+| Taejon                         | South Korea          |    1425835 |
+| Tong-yong                      | South Korea          |     131717 |
+| Tonghae                        | South Korea          |      95472 |
+| Uijongbu                       | South Korea          |     276111 |
+| Uiwang                         | South Korea          |     108788 |
+| Ulsan                          | South Korea          |    1084891 |
+| Wonju                          | South Korea          |     237460 |
+| Yangsan                        | South Korea          |     163351 |
+| Yong-in                        | South Korea          |     242643 |
+| Yongchon                       | South Korea          |     113511 |
+| Yongju                         | South Korea          |     131097 |
+| Yosu                           | South Korea          |     183596 |
+| Colombo                        | Sri Lanka            |     645000 |
+| Dehiwala                       | Sri Lanka            |     203000 |
+| Jaffna                         | Sri Lanka            |     149000 |
+| Kandy                          | Sri Lanka            |     140000 |
+| Moratuwa                       | Sri Lanka            |     190000 |
+| Negombo                        | Sri Lanka            |     100000 |
+| Sri Jayawardenepura Kotte      | Sri Lanka            |     118000 |
+| al-Qamishliya                  | Syria                |     144286 |
+| al-Raqqa                       | Syria                |     108020 |
+| Aleppo                         | Syria                |    1261983 |
+| Damascus                       | Syria                |    1347000 |
+| Dayr al-Zawr                   | Syria                |     140459 |
+| Duma                           | Syria                |     131158 |
+| Hama                           | Syria                |     343361 |
+| Hims                           | Syria                |     507404 |
+| Idlib                          | Syria                |      91081 |
+| Jaramana                       | Syria                |     138469 |
+| Latakia                        | Syria                |     264563 |
+| Changhwa                       | Taiwan               |     227715 |
+| Chiayi                         | Taiwan               |     265109 |
+| Chungho                        | Taiwan               |     392176 |
+| Chungli                        | Taiwan               |     318649 |
+| Fengshan                       | Taiwan               |     318562 |
+| Fengyuan                       | Taiwan               |     161032 |
+| Hsichuh                        | Taiwan               |     154976 |
+| Hsinchu                        | Taiwan               |     361958 |
+| Hsinchuang                     | Taiwan               |     365048 |
+| Hsintien                       | Taiwan               |     263603 |
+| Hualien                        | Taiwan               |     108407 |
+| Ilan                           | Taiwan               |      92000 |
+| Kangshan                       | Taiwan               |      92200 |
+| Kaohsiung                      | Taiwan               |    1475505 |
+| Keelung (Chilung)              | Taiwan               |     385201 |
+| Kueishan                       | Taiwan               |     112195 |
+| Luchou                         | Taiwan               |     160516 |
+| Lungtan                        | Taiwan               |     103088 |
+| Miaoli                         | Taiwan               |      90000 |
+| Nantou                         | Taiwan               |     104723 |
+| Panchiao                       | Taiwan               |     523850 |
+| Pate                           | Taiwan               |     161700 |
+| Pingchen                       | Taiwan               |     188344 |
+| Pingtung                       | Taiwan               |     214727 |
+| Sanchung                       | Taiwan               |     380084 |
+| Shulin                         | Taiwan               |     151260 |
+| Taichung                       | Taiwan               |     940589 |
+| Tainan                         | Taiwan               |     728060 |
+| Taipei                         | Taiwan               |    2641312 |
+| Taiping                        | Taiwan               |     165524 |
+| Taitung                        | Taiwan               |     111039 |
+| Tali                           | Taiwan               |     171940 |
+| Taliao                         | Taiwan               |     115897 |
+| Tanshui                        | Taiwan               |     111882 |
+| Taoyuan                        | Taiwan               |     316438 |
+| Touliu                         | Taiwan               |      98900 |
+| Tsaotun                        | Taiwan               |      96800 |
+| Tucheng                        | Taiwan               |     224897 |
+| Yangmei                        | Taiwan               |     126323 |
+| Yuanlin                        | Taiwan               |     126402 |
+| Yungho                         | Taiwan               |     227700 |
+| Yungkang                       | Taiwan               |     193005 |
+| Dushanbe                       | Tajikistan           |     524000 |
+| Khujand                        | Tajikistan           |     161500 |
+| Bangkok                        | Thailand             |    6320174 |
+| Chiang Mai                     | Thailand             |     171100 |
+| Hat Yai                        | Thailand             |     148632 |
+| Khon Kaen                      | Thailand             |     126500 |
+| Nakhon Pathom                  | Thailand             |      94100 |
+| Nakhon Ratchasima              | Thailand             |     181400 |
+| Nakhon Sawan                   | Thailand             |     123800 |
+| Nonthaburi                     | Thailand             |     292100 |
+| Pak Kret                       | Thailand             |     126055 |
+| Songkhla                       | Thailand             |      94900 |
+| Ubon Ratchathani               | Thailand             |     116300 |
+| Udon Thani                     | Thailand             |     158100 |
+| Adana                          | Turkey               |    1131198 |
+| Adiyaman                       | Turkey               |     141529 |
+| Afyon                          | Turkey               |     103984 |
+| Aksaray                        | Turkey               |     102681 |
+| Alanya                         | Turkey               |     117300 |
+| Ankara                         | Turkey               |    3038159 |
+| Antalya                        | Turkey               |     564914 |
+| Aydin                          | Turkey               |     128651 |
+| Balikesir                      | Turkey               |     196382 |
+| Bandirma                       | Turkey               |      90200 |
+| Batman                         | Turkey               |     203793 |
+| Bismil                         | Turkey               |     101400 |
+| Bursa                          | Turkey               |    1095842 |
+| Ceyhan                         | Turkey               |     102412 |
+| Çorlu                          | Turkey               |     123300 |
+| Çorum                          | Turkey               |     145495 |
+| Denizli                        | Turkey               |     253848 |
+| Diyarbakir                     | Turkey               |     479884 |
+| Edirne                         | Turkey               |     123383 |
+| Elâzig                         | Turkey               |     228815 |
+| Erzincan                       | Turkey               |     102304 |
+| Erzurum                        | Turkey               |     246535 |
+| Eskisehir                      | Turkey               |     470781 |
+| Gaziantep                      | Turkey               |     789056 |
+| Gebze                          | Turkey               |     264170 |
+| Hatay (Antakya)                | Turkey               |     143982 |
+| Inegöl                         | Turkey               |      90500 |
+| Iskenderun                     | Turkey               |     153022 |
+| Isparta                        | Turkey               |     121911 |
+| Istanbul                       | Turkey               |    8787958 |
+| Izmir                          | Turkey               |    2130359 |
+| Izmit (Kocaeli)                | Turkey               |     210068 |
+| Kahramanmaras                  | Turkey               |     245772 |
+| Karabük                        | Turkey               |     118285 |
+| Karaman                        | Turkey               |     104200 |
+| Kars                           | Turkey               |      93000 |
+| Kayseri                        | Turkey               |     475657 |
+| Kilis                          | Turkey               |     118245 |
+| Kirikkale                      | Turkey               |     142044 |
+| Kiziltepe                      | Turkey               |     112000 |
+| Konya                          | Turkey               |     628364 |
+| Kütahya                        | Turkey               |     144761 |
+| Malatya                        | Turkey               |     330312 |
+| Manisa                         | Turkey               |     207148 |
+| Mersin (Içel)                  | Turkey               |     587212 |
+| Nazilli                        | Turkey               |      99900 |
+| Ordu                           | Turkey               |     133642 |
+| Osmaniye                       | Turkey               |     146003 |
+| Sakarya (Adapazari)            | Turkey               |     190641 |
+| Samsun                         | Turkey               |     339871 |
+| Sanliurfa                      | Turkey               |     405905 |
+| Siirt                          | Turkey               |     107100 |
+| Sivas                          | Turkey               |     246642 |
+| Sultanbeyli                    | Turkey               |     211068 |
+| Tarsus                         | Turkey               |     246206 |
+| Tekirdag                       | Turkey               |     106077 |
+| Tokat                          | Turkey               |      99500 |
+| Trabzon                        | Turkey               |     138234 |
+| Usak                           | Turkey               |     128162 |
+| Van                            | Turkey               |     219319 |
+| Viransehir                     | Turkey               |     106400 |
+| Zonguldak                      | Turkey               |     111542 |
+| Ashgabat                       | Turkmenistan         |     540600 |
+| Chärjew                        | Turkmenistan         |     189200 |
+| Dashhowuz                      | Turkmenistan         |     141800 |
+| Mary                           | Turkmenistan         |     101000 |
+| Abu Dhabi                      | United Arab Emirates |     398695 |
+| Ajman                          | United Arab Emirates |     114395 |
+| al-Ayn                         | United Arab Emirates |     225970 |
+| Dubai                          | United Arab Emirates |     669181 |
+| Sharja                         | United Arab Emirates |     320095 |
+| Andijon                        | Uzbekistan           |     318600 |
+| Angren                         | Uzbekistan           |     128000 |
+| Buhoro                         | Uzbekistan           |     237100 |
+| Circik                         | Uzbekistan           |     146400 |
+| Cizah                          | Uzbekistan           |     124800 |
+| Fargona                        | Uzbekistan           |     180500 |
+| Karsi                          | Uzbekistan           |     194100 |
+| Kükon                          | Uzbekistan           |     190100 |
+| Margilon                       | Uzbekistan           |     140800 |
+| Namangan                       | Uzbekistan           |     370500 |
+| Navoi                          | Uzbekistan           |     116300 |
+| Nukus                          | Uzbekistan           |     194100 |
+| Olmalik                        | Uzbekistan           |     114900 |
+| Samarkand                      | Uzbekistan           |     361800 |
+| Termiz                         | Uzbekistan           |     109500 |
+| Toskent                        | Uzbekistan           |    2117500 |
+| Ürgenc                         | Uzbekistan           |     138900 |
+| Biên Hoa                       | Vietnam              |     282095 |
+| Buon Ma Thuot                  | Vietnam              |      97044 |
+| Cam Pha                        | Vietnam              |     209086 |
+| Cam Ranh                       | Vietnam              |     114041 |
+| Can Tho                        | Vietnam              |     215587 |
+| Da Lat                         | Vietnam              |     106409 |
+| Da Nang                        | Vietnam              |     382674 |
+| Haiphong                       | Vietnam              |     783133 |
+| Hanoi                          | Vietnam              |    1410000 |
+| Ho Chi Minh City               | Vietnam              |    3980000 |
+| Hong Gai                       | Vietnam              |     127484 |
+| Hue                            | Vietnam              |     219149 |
+| Long Xuyen                     | Vietnam              |     132681 |
+| My Tho                         | Vietnam              |     108404 |
+| Nam Dinh                       | Vietnam              |     171699 |
+| Nha Trang                      | Vietnam              |     221331 |
+| Phan Thiêt                     | Vietnam              |     114236 |
+| Quy Nhon                       | Vietnam              |     163385 |
+| Rach Gia                       | Vietnam              |     141132 |
+| Thai Nguyen                    | Vietnam              |     127643 |
+| Vinh                           | Vietnam              |     112455 |
+| Vung Tau                       | Vietnam              |     145145 |
+| Aden                           | Yemen                |     398300 |
+| al-Mukalla                     | Yemen                |     122400 |
+| Hodeida                        | Yemen                |     298500 |
+| Ibb                            | Yemen                |     103300 |
+| Sanaa                          | Yemen                |     503600 |
+| Taizz                          | Yemen                |     317600 |
++--------------------------------+----------------------+------------+
++------------------+------------+------------+
+| Language         | Percentage | IsOfficial |
++------------------+------------+------------+
+| Portuguese       |       97.5 | T          |
+| German           |        0.5 | F          |
+| Italian          |        0.4 | F          |
+| Japanese         |        0.4 | F          |
+| Indian Languages |        0.2 | F          |
++------------------+------------+------------+
++------------------+---------------------+
+| CountryName      | CapitalName         |
++------------------+---------------------+
+| Argentina        | Buenos Aires        |
+| Bolivia          | La Paz              |
+| Brazil           | Brasília            |
+| Chile            | Santiago de Chile   |
+| Colombia         | Santafé de Bogotá   |
+| Ecuador          | Quito               |
+| Falkland Islands | Stanley             |
+| French Guiana    | Cayenne             |
+| Guyana           | Georgetown          |
+| Paraguay         | Asunción            |
+| Peru             | Lima                |
+| Suriname         | Paramaribo          |
+| Uruguay          | Montevideo          |
+| Venezuela        | Caracas             |
++------------------+---------------------+
++----------------------------------+----------------+
+| Name                             | LifeExpectancy |
++----------------------------------+----------------+
+| Andorra                          |           83.5 |
+| Macao                            |           81.6 |
+| San Marino                       |           81.1 |
+| Japan                            |           80.7 |
+| Singapore                        |           80.1 |
+| Australia                        |           79.8 |
+| Switzerland                      |           79.6 |
+| Sweden                           |           79.6 |
+| Hong Kong                        |           79.5 |
+| Canada                           |           79.4 |
+| Iceland                          |           79.4 |
+| Gibraltar                        |           79.0 |
+| Italy                            |           79.0 |
+| Cayman Islands                   |           78.9 |
+| Spain                            |           78.8 |
+| France                           |           78.8 |
+| Liechtenstein                    |           78.8 |
+| Monaco                           |           78.8 |
+| Norway                           |           78.7 |
+| Israel                           |           78.6 |
+| Aruba                            |           78.4 |
+| Faroe Islands                    |           78.4 |
+| Greece                           |           78.4 |
+| Martinique                       |           78.3 |
+| Netherlands                      |           78.3 |
+| Virgin Islands, U.S.             |           78.1 |
+| Montserrat                       |           78.0 |
+| Malta                            |           77.9 |
+| Belgium                          |           77.8 |
+| Guam                             |           77.8 |
+| New Zealand                      |           77.8 |
+| Austria                          |           77.7 |
+| United Kingdom                   |           77.7 |
+| Saint Pierre and Miquelon        |           77.6 |
+| Germany                          |           77.4 |
+| Finland                          |           77.4 |
+| Jordan                           |           77.4 |
+| Luxembourg                       |           77.1 |
+| United States                    |           77.1 |
+| Guadeloupe                       |           77.0 |
+| Bermuda                          |           76.9 |
+| Ireland                          |           76.8 |
+| Saint Helena                     |           76.8 |
+| Cyprus                           |           76.7 |
+| Denmark                          |           76.5 |
+| Taiwan                           |           76.4 |
+| Cuba                             |           76.2 |
+| Anguilla                         |           76.1 |
+| French Guiana                    |           76.1 |
+| Kuwait                           |           76.1 |
+| Costa Rica                       |           75.8 |
+| Portugal                         |           75.8 |
+| Chile                            |           75.7 |
+| Puerto Rico                      |           75.6 |
+| Libyan Arab Jamahiriya           |           75.5 |
+| Northern Mariana Islands         |           75.5 |
+| Panama                           |           75.5 |
+| Virgin Islands, British          |           75.4 |
+| Jamaica                          |           75.2 |
+| Uruguay                          |           75.2 |
+| Argentina                        |           75.1 |
+| American Samoa                   |           75.1 |
+| Slovenia                         |           74.9 |
+| French Polynesia                 |           74.8 |
+| Netherlands Antilles             |           74.7 |
+| Czech Republic                   |           74.5 |
+| South Korea                      |           74.4 |
+| United Arab Emirates             |           74.1 |
+| Macedonia                        |           73.8 |
+| Croatia                          |           73.7 |
+| Paraguay                         |           73.7 |
+| Slovakia                         |           73.7 |
+| Tunisia                          |           73.7 |
+| Brunei                           |           73.6 |
+| Dominica                         |           73.4 |
+| Turks and Caicos Islands         |           73.3 |
+| Dominican Republic               |           73.2 |
+| Poland                           |           73.2 |
+| Venezuela                        |           73.1 |
+| Bahrain                          |           73.0 |
+| Barbados                         |           73.0 |
+| New Caledonia                    |           72.8 |
+| Réunion                          |           72.7 |
+| Qatar                            |           72.4 |
+| Yugoslavia                       |           72.4 |
+| Saint Lucia                      |           72.3 |
+| Saint Vincent and the Grenadines |           72.3 |
+| Sri Lanka                        |           71.8 |
+| Oman                             |           71.8 |
+| Albania                          |           71.6 |
+| Bosnia and Herzegovina           |           71.5 |
+| Mexico                           |           71.5 |
+| China                            |           71.4 |
+| Hungary                          |           71.4 |
+| Palestine                        |           71.4 |
+| Suriname                         |           71.4 |
+| Lebanon                          |           71.3 |
+| Solomon Islands                  |           71.3 |
+| Bahamas                          |           71.1 |
+| Cook Islands                     |           71.1 |
+| Ecuador                          |           71.1 |
+| Mauritius                        |           71.0 |
+| Turkey                           |           71.0 |
+| Bulgaria                         |           70.9 |
+| Belize                           |           70.9 |
+| Malaysia                         |           70.8 |
+| Saint Kitts and Nevis            |           70.7 |
+| North Korea                      |           70.7 |
+| Antigua and Barbuda              |           70.5 |
+| Seychelles                       |           70.4 |
+| Colombia                         |           70.3 |
+| Peru                             |           70.0 |
+| Honduras                         |           69.9 |
+| Romania                          |           69.9 |
+| Algeria                          |           69.7 |
+| Iran                             |           69.7 |
+| El Salvador                      |           69.7 |
+| Estonia                          |           69.5 |
+| Vietnam                          |           69.3 |
+| Samoa                            |           69.2 |
+| Lithuania                        |           69.1 |
+| Morocco                          |           69.1 |
+| Cape Verde                       |           68.9 |
+| Nicaragua                        |           68.7 |
+| Micronesia, Federated States of  |           68.6 |
+| Palau                            |           68.6 |
+| Thailand                         |           68.6 |
+| Syria                            |           68.5 |
+| Latvia                           |           68.4 |
+| Greenland                        |           68.1 |
+| Belarus                          |           68.0 |
+| Indonesia                        |           68.0 |
+| Trinidad and Tobago              |           68.0 |
+| Fiji Islands                     |           67.9 |
+| Tonga                            |           67.9 |
+| Saudi Arabia                     |           67.8 |
+| Philippines                      |           67.5 |
+| Mongolia                         |           67.3 |
+| Russian Federation               |           67.2 |
+| Iraq                             |           66.5 |
++----------------------------------+----------------+
++----------+-------------------+
+| Language | EstimatedSpeakers |
++----------+-------------------+
+| Chinese  |        1178103517 |
+| Hindi    |         404451138 |
+| English  |         343470682 |
+| Spanish  |         333513652 |
+| Arabic   |         226340372 |
++----------+-------------------+
